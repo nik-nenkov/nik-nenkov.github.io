@@ -45,24 +45,24 @@ function keyPressed(){
     }
 }
 
-function touchMoved(){
-	var optX=mouseX/200;
-	var optY=mouseY/200;
-	if (optX<1&&optY<1){
-		s.dir(0,-1);
-	}else if(optX>=1&&optY<1){
-		s.dir(0, 1);
-	}else if(optX<1&&optY>=1){
-		s.dir(1, 0);
-	}else if(optX>=1&&optY>=1){
-		s.dir(-1,0);
-	}
-	if (mouseIsPressed) {
-		if (mouseButton === LEFT) {
-			s.total++;
-		}
-	}
-}
+// function touchMoved(){
+// 	var optX=mouseX/200;
+// 	var optY=mouseY/200;
+// 	if (optX<1&&optY<1){
+// 		s.dir(0,-1);
+// 	}else if(optX>=1&&optY<1){
+// 		s.dir(0, 1);
+// 	}else if(optX<1&&optY>=1){
+// 		s.dir(1, 0);
+// 	}else if(optX>=1&&optY>=1){
+// 		s.dir(-1,0);
+// 	}
+// 	if (mouseIsPressed) {
+// 		if (mouseButton === LEFT) {
+// 			s.total++;
+// 		}
+// 	}
+// }
 
 function Snake(){
 
