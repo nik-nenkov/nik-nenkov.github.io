@@ -9,7 +9,7 @@ body {
 }
 
 #map-holder{
-    width: calc(90vw - 40px);
+    width: calc(100vw - 40px);
     height: calc(90vh - 40px);
     margin: 20px
 }
