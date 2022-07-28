@@ -4,7 +4,8 @@ let food;
 
 function setup() {
     frameRate(8);
-    createCanvas(400, 400);
+    const canvas = createCanvas(400, 400);
+    canvas.parent('sketch-holder');
     snake = new Snake();
     pickLocation();
 }
