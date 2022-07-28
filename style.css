@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#sketch-holder {
+    padding: 40px;
+    display: inline-block;
+}
+
+.navigation{
+    display: inline-block;
+    width: 100%;
+}
