@@ -81,7 +81,7 @@ function Snake() {
             }
         }
 
-        this.tail[this.total - 1] = Math.createVector(this.x, this.y);
+        this.tail[this.total - 1] = p5.prototype.createVector(this.x, this.y);
 
         this.x = this.x + this.xspeed * scl;
         this.y = this.y + this.yspeed * scl;
@@ -111,6 +111,6 @@ function Snake() {
 function pickLocation() {
     const cols = Math.floor(width / scl);
     const rows = Math.floor(height / scl);
-    food = Math.createVector(Math.floor(random(cols)), Math.floor(random(rows)));
+    food = p5.prototype.createVector(Math.floor(random(cols)), Math.floor(random(rows)));
     food.mult(scl);
 }
