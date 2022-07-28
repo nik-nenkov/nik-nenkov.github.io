@@ -21,18 +21,18 @@ function draw() {
     }
 }
 
-function keyPressed() {
-    if (p5.prototype.keyCode === p5.Constants.UP_ARROW || p5.prototype.keyCode === 87) {
+function keyPressed(e) {
+    if (e.keyCode === 38 || e.keyCode === 87) {
         snake.dir(0, -1);
-    } else if (p5.prototype.keyCode === p5.Constants.DOWN_ARROW || p5.prototype.keyCode === 83) {
+    } else if (e.keyCode === 40 || e.keyCode === 83) {
         snake.dir(0, 1);
-    } else if (p5.prototype.keyCode === p5.Constants.RIGHT_ARROW || p5.prototype.keyCode === 68) {
+    } else if (e.keyCode === 39 || e.keyCode === 68) {
         snake.dir(1, 0);
-    } else if (p5.prototype.keyCode === p5.Constants.LEFT_ARROW || p5.prototype.keyCode === 65) {
+    } else if (e.keyCode === 37 || e.keyCode === 65) {
         snake.dir(-1, 0);
     }
     if (p5.prototype.mouseIsPressed) {
-        if (p5.prototype.mouseButton === p5.Constants.LEFT) {
+        if (p5.prototype.mouseButton === 'left') {
             snake.total++;
         }
     }
