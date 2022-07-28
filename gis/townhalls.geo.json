@@ -1,0 +1,4456 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880571,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Горно трапе, Троян, Ловеч, 5614, Бългaрия",
+        "uuid": "73a5a461-3ae1-43b4-b42b-f81aab92f1b2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6589741,
+          42.874269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488989,
+        "n_properties": 29,
+        "place_type": "town",
+        "display_name": "Априлци, Ловеч, 5641, Бългaрия",
+        "uuid": "f80d8b08-6561-4e7a-9b11-37050d3cb727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9134025,
+          42.8407855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814271,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Рибарица, Тетевен, Ловеч, 5720, Бългaрия",
+        "uuid": "4ba9f6f6-d25a-474f-a86c-d02482324e7e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37079,
+          42.84061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877172,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Скандалото, Априлци, Ловеч, Бългaрия",
+        "uuid": "d2e88cbd-6bb9-443d-9b83-fff885be8408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86346,
+          42.8809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877437,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Микре, Угърчин, Ловеч, Бългaрия",
+        "uuid": "b0fc1510-c409-4b8c-87cb-f91ad118d1d5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5221318,
+          43.033415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880407,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Белиш, Троян, Ловеч, 5600, Бългaрия",
+        "uuid": "abd24358-8392-4730-8e88-fabdaf8ea6b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7328867,
+          42.9344278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878694,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Лисец, Ловеч, Бългaрия",
+        "uuid": "52374408-7982-4542-bcce-1150f534b104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65617,
+          43.18358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881519,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Малка Желязна, Тетевен, Ловеч, 5724, Бългaрия",
+        "uuid": "5fd874be-045d-4f22-9f6b-cf7adc4f11ef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.319604,
+          43.0070637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816983,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Черни Вит, Тетевен, Ловеч, Бългaрия",
+        "uuid": "db8f5e1b-86ca-4743-98fb-542111e65a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19552,
+          42.88176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873380,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Радювене, Ловеч, Бългaрия",
+        "uuid": "8874c206-f919-4a94-a680-6968cc84ee7c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60223,
+          43.12273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881146,
+        "n_properties": 8,
+        "place_type": "village",
+        "display_name": "Шипково, Троян, Ловеч, 5663, Бългaрия",
+        "uuid": "c61c8727-20a0-4cda-9b74-59773164eb6a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55708,
+          42.8794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875682,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Бели Осъм, Троян, Ловеч, 5614, Бългaрия",
+        "uuid": "95c0c3d0-0798-4d09-9309-5fefeb9cbe70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6518,
+          42.8588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817593,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Черни Осъм, Троян, Ловеч, 5630, Бългaрия",
+        "uuid": "4be45c50-3589-4481-afa1-48adda12ec4a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77162,
+          42.84438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877737,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Крушуна, Летница, Ловеч, Бългaрия",
+        "uuid": "4c96b41a-791f-4332-a9fc-fd0353be0e8b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.03366,
+          43.25358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 357444883,
+        "n_properties": 4,
+        "place_type": "town",
+        "display_name": "Сопот, Пловдив, 4330, Бългaрия",
+        "uuid": "89ec8422-b17b-4c29-bc01-2d4b49576fdb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7554866,
+          42.6543846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488698,
+        "n_properties": 2,
+        "place_type": "town",
+        "display_name": "Летница, Ловеч, Бългaрия",
+        "uuid": "ee898de8-ca34-4632-8f55-5e53a9f58886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0540972,
+          43.3058111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877481,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Добродан, Троян, Ловеч, Бългaрия",
+        "uuid": "b3f18ac8-cdaa-45b9-9975-86c95ea03ccd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7075,
+          42.96841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817120,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Чифлик, Кърджали, 6674, Бългaрия",
+        "uuid": "ce691115-af18-4112-8dad-e8394d718216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4969127,
+          41.6827542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817490,
+        "n_properties": 6,
+        "place_type": "village",
+        "display_name": "Орешак, Троян, Ловеч, 5630, Бългaрия",
+        "uuid": "d35de107-3137-4e34-90ef-d12e8d5dbd70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7674588,
+          42.8876014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878745,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Баховица, Ловеч, Бългaрия",
+        "uuid": "17b1b752-9148-4a63-875c-cb451ae9cf86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6831063,
+          43.188217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813090,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Голяма Желязна, Троян, Ловеч, Бългaрия",
+        "uuid": "09462f65-96ba-4442-9392-43159fb29718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46567,
+          42.97721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273872811,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Българене, Ловеч, Бългaрия",
+        "uuid": "554a30b0-4132-427d-913e-a4b4499f8201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76449,
+          43.04402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 262416942,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Торос, Луковит, Ловеч, Бългaрия",
+        "uuid": "e3363ba3-41dd-443b-996d-61a9ebf6d72c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2782711,
+          43.0967069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878799,
+        "n_properties": 6,
+        "place_type": "village",
+        "display_name": "Дълбок дол, Троян, Ловеч, Бългaрия",
+        "uuid": "0ac9a2a5-e3b2-489f-aded-48797912179d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6471613,
+          42.9643757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875059,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Добревци, Ябланица, Ловеч, Бългaрия",
+        "uuid": "792830db-4f85-4079-9447-5f7c397fb7d6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0804993,
+          43.0665145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874216,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Тодоричене, Луковит, Ловеч, Бългaрия",
+        "uuid": "9f9fd002-1815-4b9a-a967-aa7411b591db"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.17733,
+          43.16436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880509,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Стефаново, Ловеч, Бългaрия",
+        "uuid": "7ad5c527-bb49-41bf-9964-3eec0936b83a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8096,
+          43.02128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812154,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Катунец, Угърчин, Ловеч, Бългaрия",
+        "uuid": "690f4625-64e3-4ece-8c48-f3c7ad979daa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.50353,
+          43.20384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273872815,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Абланица, Ловеч, Бългaрия",
+        "uuid": "a1ae3d6a-1e9f-4373-bf36-960d661956a3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69137,
+          43.03793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 267050507,
+        "n_properties": 16,
+        "place_type": "town",
+        "display_name": "Троян, Ловеч, 5600, Бългaрия",
+        "uuid": "ec482835-da24-4b65-bc12-ae442be4a8d1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7123534,
+          42.8910697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488736,
+        "n_properties": 5,
+        "place_type": "town",
+        "display_name": "Ябланица, Ловеч, Бългaрия",
+        "uuid": "5d8c158a-a56b-42a1-bb8d-b3d535b438cb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1007818,
+          43.0254188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873018,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Васильово, Тетевен, Ловеч, 5720, Бългaрия",
+        "uuid": "d3e57b59-98e0-4e44-aa77-a14ec239ce04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3761899,
+          42.8785001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878770,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Лесидрен, Угърчин, Ловеч, Бългaрия",
+        "uuid": "7b52a090-74bb-41ff-8e2d-85296bc8bf5b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.40448,
+          42.97459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877222,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Владиня, Ловеч, Бългaрия",
+        "uuid": "37967e7c-023d-445d-9ccd-8885688b4498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79552,
+          43.29049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488741,
+        "n_properties": 5,
+        "place_type": "town",
+        "display_name": "Тетевен, Ловеч, Бългaрия",
+        "uuid": "bcb0d308-7d02-4a33-9056-12b4d1e52ce9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.26354,
+          42.91837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814682,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Сливек, Ловеч, 5503, Бългaрия",
+        "uuid": "43a887b8-20e2-429d-a423-1938c890b229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74767,
+          43.10093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881529,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Смочан, Ловеч, 5553, Бългaрия",
+        "uuid": "dd52e100-db22-4a87-a313-52f01b62f0aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8014,
+          43.18255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880110,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Умаревци, Ловеч, 5553, Бългaрия",
+        "uuid": "10fbeb2e-4610-42fd-8f3f-45e432c9e926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78342,
+          43.1914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877135,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Казачево, Ловеч, Бългaрия",
+        "uuid": "cfe519a5-3df2-4a65-bb93-1ba97fb3ec12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74861,
+          43.08059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816616,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Драгана, Угърчин, Ловеч, Бългaрия",
+        "uuid": "e9165343-7ed9-4e13-844a-a310ae6b02e6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39409,
+          43.17835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813103,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Балканец, Троян, Ловеч, 5634, Бългaрия",
+        "uuid": "ffc4cdba-0890-4d04-852b-ed1a04cc6675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66798,
+          42.84507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876666,
+        "n_properties": 6,
+        "place_type": "village",
+        "display_name": "Александрово, Ловеч, 5560, Бългaрия",
+        "uuid": "44df5dc2-61b4-40d7-bb5a-3c318a5403be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94645,
+          43.26135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 262417064,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Дерманци, Луковит, Ловеч, Бългaрия",
+        "uuid": "9c559981-712f-4838-b61f-ebd1b2b817b6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2793713,
+          43.1535252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817772,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Врабево, Троян, Ловеч, Бългaрия",
+        "uuid": "2d664d80-c1ce-4600-b971-ad5d0f0b77c6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81324,
+          42.99334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874827,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Дойренци, Ловеч, 5553, Бългaрия",
+        "uuid": "8dfe6c36-d940-4d5e-854d-bd86d4601ed9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8327391,
+          43.2332211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881604,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Карлуково, Луковит, Ловеч, Бългaрия",
+        "uuid": "78313c87-ff1c-4ea7-9694-ffa3191eea1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0659425,
+          43.1652693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273818011,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Чавдарци, Ловеч, Бългaрия",
+        "uuid": "9ba366a9-6866-4f0e-84ad-50c04c59d42b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.99611,
+          43.25066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878831,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Гостиня, Ловеч, Бългaрия",
+        "uuid": "8e0277dd-e47d-4bd9-b43f-d6320b39a7b5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83492,
+          43.15166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879133,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Пещерна, Луковит, Ловеч, Бългaрия",
+        "uuid": "9192ce37-91f8-4809-a9fd-ff60fdb7359e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2482415,
+          43.0791474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878612,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Малиново, Ловеч, Бългaрия",
+        "uuid": "fea19fa9-15fd-437b-baca-072a074cecb2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.88474,
+          43.03832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812541,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Хлевене, Ловеч, 5503, Бългaрия",
+        "uuid": "5c2f8eae-cec3-4e4e-bda0-376784437f64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70742,
+          43.08926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879692,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Бежаново, Луковит, Ловеч, Бългaрия",
+        "uuid": "40d1c733-2f2d-48cf-ac1d-f470770b622c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3962727,
+          43.2301185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813628,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Петревене, Луковит, Ловеч, Бългaрия",
+        "uuid": "604c07ea-5329-4e77-83af-998a357dfe51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1459583,
+          43.1600962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488884,
+        "n_properties": 1,
+        "place_type": "town",
+        "display_name": "Луковит, Ловеч, Бългaрия",
+        "uuid": "dc9b756a-adbf-4426-a601-acacd7f13785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1619125,
+          43.2064255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874814,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ломец, Троян, Ловеч, Бългaрия",
+        "uuid": "c88d12bc-ce76-42c5-8ba8-0cddf42f9f2b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64836,
+          42.99098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817201,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Дебнево, Троян, Ловеч, Бългaрия",
+        "uuid": "cd63342f-085b-48d0-92c1-859ab6e58e18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84513,
+          42.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816972,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Горан, Ловеч, Бългaрия",
+        "uuid": "100de754-4d36-45db-8712-b7e5b517787d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.743612,
+          43.2028423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877713,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Велчево, Априлци, Ловеч, Бългaрия",
+        "uuid": "9431cace-10a1-4bfb-b920-1b6cfee2fe5a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83204,
+          42.89245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879351,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Гложене, Тетевен, Ловеч, Бългaрия",
+        "uuid": "035ca051-e4ed-46f8-9a58-d6a69796fe84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1858751,
+          42.9893853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877534,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Гумощник, Троян, Ловеч, Бългaрия",
+        "uuid": "c99669a2-4838-4672-ba9c-6e62880e7d43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8545017,
+          42.9271579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273872922,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Горско Сливово, Летница, Ловеч, Бългaрия",
+        "uuid": "28082cc0-b805-4501-86c3-e476915d205b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.06949,
+          43.20672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878600,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Славяни, Ловеч, Бългaрия",
+        "uuid": "ec537f39-de92-4157-913d-6c76da6dc9dd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6856076,
+          43.2205713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876524,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Голям извор, Тетевен, Ловеч, 5741, Бългaрия",
+        "uuid": "65697ebb-816b-4212-a5d1-da5c58996d2c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.10171,
+          42.96274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881212,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Балабанско, Троян, Ловеч, 5615, Бългaрия",
+        "uuid": "f99cb973-6b3d-473b-9f6b-c4e14eb01dfb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64678,
+          42.89562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815155,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Малък извор, Ябланица, Ловеч, 5741, Бългaрия",
+        "uuid": "c047db99-1901-4651-8389-d8281142f8ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12557,
+          42.98514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1695086208,
+        "n_properties": 4,
+        "place_type": "town",
+        "display_name": "Драгоман, Софийска, 2210, Бългaрия",
+        "uuid": "984d42bb-f5f7-4a93-b322-ff70f016a1fd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.93018,
+          42.9218621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813995,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Върбница, Годеч, Софийска, 2240, Бългaрия",
+        "uuid": "3e072c98-a1b1-4551-8145-6f9d17b4bf78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0312219,
+          42.9796605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488981,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Мирково, Софийска, 2086, Бългaрия",
+        "uuid": "ed2a169d-088c-4bbc-bd98-ba1dac43ceed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9924679,
+          42.6914704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878997,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Батулия, Своге, Софийска, 2295, Бългaрия",
+        "uuid": "c05b759b-ecd4-4472-a0f1-49d9b43a37a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4251498,
+          42.8968051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488683,
+        "n_properties": 2,
+        "place_type": "town",
+        "display_name": "Годеч, Софийска, 2240, Бългaрия",
+        "uuid": "b9fae9f1-2385-4f57-895e-e27aa341dafb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0470159,
+          43.0157976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878720,
+        "n_properties": 14,
+        "place_type": "village",
+        "display_name": "Свидня, Своге, Софийска, Бългaрия",
+        "uuid": "603e81ea-171f-47e0-9416-fc10f6a88f83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2983299,
+          42.9688463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876530,
+        "n_properties": 7,
+        "place_type": "village",
+        "display_name": "Луково, Своге, Софийска, 2299, Бългaрия",
+        "uuid": "276a26ea-be17-44d7-b04c-e048add7c596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.39245,
+          42.8843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873306,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Душанци, Пирдоп, Софийска, 2089, Бългaрия",
+        "uuid": "1dcfa5fc-a031-4962-8000-7d8a49b149b7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2646307,
+          42.6954115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817088,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Вакарел, Софийска, 2060, Бългaрия",
+        "uuid": "af5022b9-7746-49dc-9f91-c58792547b94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7113759,
+          42.5560379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876908,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Байлово, Горна Малина, Софийска, Бългaрия",
+        "uuid": "dc9565fa-8ff4-4193-830c-5c2e8d6d4e51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.819728,
+          42.6566651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874531,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Оселна, Етрополе, Софийска, 5741, Бългaрия",
+        "uuid": "f77ba012-3808-4c31-a1cb-29548b200cce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.14939,
+          42.93223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817326,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Калугерово, Правец, Софийска, 2169, Бългaрия",
+        "uuid": "960ff9d2-cd20-432c-bed0-5bac3d6d8a8d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89099,
+          42.99218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817373,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Видраре, Правец, Софийска, 2166, Бългaрия",
+        "uuid": "07ec2057-0893-4728-8a8b-b63de65ea3e0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0100123,
+          42.9936979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488962,
+        "n_properties": 1,
+        "place_type": "town",
+        "display_name": "Копривщица, Софийска, 2077, Бългaрия",
+        "uuid": "dba68656-0d88-40da-847b-2c9f9d713e50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3577991,
+          42.6375324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488853,
+        "n_properties": 2,
+        "place_type": "town",
+        "display_name": "Костинброд, Софийска, 2230, Бългaрия",
+        "uuid": "fa17a6cc-f4c7-4ea6-9cc0-4916191b809a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2156511,
+          42.8131989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873625,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Бакьово, Своге, Софийска, 2295, Бългaрия",
+        "uuid": "7c6306cc-ee38-416c-9661-ffac5881a975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4677582,
+          42.8791545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873502,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Желен, Своге, Софийска, 2260, Бългaрия",
+        "uuid": "1342e0dc-e0ae-41c8-9a73-8f5249788200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.37112,
+          42.98944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814213,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ковачевци, Самоков, Софийска, Бългaрия",
+        "uuid": "fc16c0d0-09d4-45b2-ab30-4fe0e9c9e8e7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3286538,
+          42.4438551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874304,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Мухово, Софийска, Бългaрия",
+        "uuid": "7e8efba0-ee6b-4724-be6f-f633211083a0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.99318,
+          42.42158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488872,
+        "n_properties": 4,
+        "place_type": "town",
+        "display_name": "Правец, Софийска, 2161, Бългaрия",
+        "uuid": "d1cc635f-b70e-4b7e-9820-ee7ad4026cb7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9148925,
+          42.8956755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813108,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Ялботина, Драгоман, Софийска, Бългaрия",
+        "uuid": "8a8202a3-2506-42b9-b6e3-e5d527439408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.83193,
+          42.87176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488848,
+        "n_properties": 2,
+        "place_type": "town",
+        "display_name": "Ботевград, Софийска, 2140, Бългaрия",
+        "uuid": "57112c0f-924c-4fc7-8e53-c1b5c92bb45e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7929451,
+          42.9078544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814948,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Лакатник, Своге, Софийска, Бългaрия",
+        "uuid": "8f0484ed-6775-477a-9a7f-a955cc60be22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4088675,
+          43.0531916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812026,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Брезе, Своге, Софийска, Бългaрия",
+        "uuid": "948e26a6-ad37-4d0d-852c-5aef04f17c35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2121012,
+          43.0198575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812624,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Градец, Костинброд, Софийска, Бългaрия",
+        "uuid": "2abb106e-049d-47b2-85f6-8d1d7989f59d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2026631,
+          42.8828053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878637,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Маджаре, Самоков, Софийска, 2020, Бългaрия",
+        "uuid": "39d189cb-59ea-4dea-adc2-75c3ae222e72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.49763,
+          42.2652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814604,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Голеш, Годеч, Софийска, Бългaрия",
+        "uuid": "b143f1b3-6b4d-459f-8d3e-d19eaf17a864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9421396,
+          43.0509412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877471,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Джурово, Правец, Софийска, 2164, Бългaрия",
+        "uuid": "287d0d8b-d471-449e-9ad8-e7fef3f02cb6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.053639,
+          42.9560834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877634,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Голяновци, Костинброд, Софийска, 2230, Бългaрия",
+        "uuid": "1ccb5d15-ac45-4974-b81f-ec6bda498a22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2386674,
+          42.8284068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814948,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Лакатник, Своге, Софийска, Бългaрия",
+        "uuid": "396c5a8f-eb43-4ac4-b51a-8effdc131bc7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4088675,
+          43.0531916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877182,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Марица, Самоков, Софийска, 2043, Бългaрия",
+        "uuid": "b8ecb92d-e08e-4255-bc30-870a5c9edb8b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.70384,
+          42.30464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881370,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Райово, Самоков, Софийска, 2017, Бългaрия",
+        "uuid": "bfbc86f8-43d0-4fc1-9227-b4d7dd78d1b6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4942981,
+          42.3752061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877622,
+        "n_properties": 8,
+        "place_type": "village",
+        "display_name": "Реброво, Своге, Софийска, 2295, Бългaрия",
+        "uuid": "aa314501-6082-4791-b3b0-5484d70b2296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.39957,
+          42.90288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812104,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Петрич, Златица, Софийска, Бългaрия",
+        "uuid": "bd9c97de-448e-4ac7-a6f6-9d795615c5c3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0104925,
+          42.5995744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816060,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Лопян, Етрополе, Софийска, Бългaрия",
+        "uuid": "5eca1c4e-2cc5-4340-b9f9-17e3f75e40c8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0721,
+          42.87966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874472,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Заселе, Своге, Софийска, Бългaрия",
+        "uuid": "33f3f395-09c5-41f6-a1ac-f5cdaedc3c1e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3302001,
+          43.0398398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874793,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Дружево, Своге, Софийска, Бългaрия",
+        "uuid": "3bc39a79-223c-4ee5-a627-301d72a68ea2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.35653,
+          43.13895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878649,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Буново, Мирково, Софийска, Бългaрия",
+        "uuid": "eafecead-29d4-4ea9-8d80-0667f1851fff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9306929,
+          42.7174642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875097,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Царичина, Костинброд, Софийска, Бългaрия",
+        "uuid": "65d29d77-67c3-452c-b23a-de6cef600c23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2449512,
+          42.8987491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879884,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Гурково, Ботевград, Софийска, Бългaрия",
+        "uuid": "1fa4ce14-d1f5-4579-80c7-92031db7d793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.68612,
+          42.97871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815802,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Костенец, Софийска, 2042, Бългaрия",
+        "uuid": "3c3334e0-f576-496f-9f45-c3b21bed5bec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82735,
+          42.2627561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813018,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Мургаш, Годеч, Софийска, Бългaрия",
+        "uuid": "0719ee48-edf8-4a8d-b606-5d0f3f5e8fce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0018866,
+          42.9851268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877226,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Цацаровци, Драгоман, Софийска, Бългaрия",
+        "uuid": "0b29d986-4ffe-43cc-81d4-674d9b9cc310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8639776,
+          42.8649241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817270,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Круша, Драгоман, Софийска, Бългaрия",
+        "uuid": "5896746e-739e-4f18-8ebf-94736bd41a28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7945706,
+          42.9049624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488725,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Антон, Софийска, 2089, Бългaрия",
+        "uuid": "03829032-219e-45ea-997f-3fafbc7bc1b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2595958,
+          42.7350594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878688,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Дреатин, Драгоман, Софийска, Бългaрия",
+        "uuid": "928aefb5-3aa5-41b9-a4c2-c93d6250b328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7898121,
+          42.8781781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879433,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Стъргел, Горна Малина, Софийска, Бългaрия",
+        "uuid": "94a123de-2ac2-4150-8c93-82259e69dc96"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8722192,
+          42.7461494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880824,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Ръжана, Софийска, 2060, Бългaрия",
+        "uuid": "d68d7033-43ff-444e-81ee-b55dc110d807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.75165,
+          42.53385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812600,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Каленовци, Годеч, Софийска, Бългaрия",
+        "uuid": "0beabf04-dc73-4e90-8ade-e2be9504142d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.95643,
+          42.98626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817313,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ябланица, Своге, Софийска, Бългaрия",
+        "uuid": "7c64027e-5cfe-4fd0-ab07-d82a7b2cdfac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55411,
+          42.85786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875870,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Чурек, Елин Пелин, Софийска, Бългaрия",
+        "uuid": "cb52f7bc-1d47-4368-8cbc-00409702d28e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71624,
+          42.7743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813659,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Лесковдол, Своге, Софийска, Бългaрия",
+        "uuid": "c8b8cb8d-e499-4708-a607-51fbc3384b43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4379641,
+          42.9777472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873969,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Смолско, Мирково, Софийска, 2072, Бългaрия",
+        "uuid": "38a9e124-02b6-425d-8c66-7038cb53ae7a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.94245,
+          42.63916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813375,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Скравена, Ботевград, Софийска, Бългaрия",
+        "uuid": "23602506-8f0a-43eb-bd53-f922b12bfd65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7676722,
+          42.9514336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812632,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Рашково, Ботевград, Софийска, Бългaрия",
+        "uuid": "88ce4716-3728-48ad-9554-d10beb58a9a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.61569,
+          43.00828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813500,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Дръмша, Костинброд, Софийска, Бългaрия",
+        "uuid": "8abc919f-9e4e-4bb2-8462-4fc9f59f18f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2094136,
+          42.9346542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876790,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Боровец, Кюстендил, 2640, Бългaрия",
+        "uuid": "429f34a8-9a13-45ad-9a06-bbce8dc435f0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.02161,
+          42.10435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876551,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Чибаовци, Костинброд, Софийска, Бългaрия",
+        "uuid": "690fc934-bcdd-443a-af1b-1593b2efd500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2412097,
+          42.9344339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881367,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Живково, Софийска, Бългaрия",
+        "uuid": "c2c805fd-61ac-46d8-9c5a-2e6a3fbec30a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.75263,
+          42.44905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816106,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Макоцево, Горна Малина, Софийска, Бългaрия",
+        "uuid": "9a542726-7c02-4aaf-8b37-1bf3b9dae027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7960473,
+          42.693748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879479,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Брусен, Етрополе, Софийска, Бългaрия",
+        "uuid": "048ed6ed-73df-4e50-b470-64459d107a68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11227,
+          42.89983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814342,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Шума, Годеч, Софийска, 2240, Бългaрия",
+        "uuid": "65f97673-a4f8-4072-922f-b7bb32ebe956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0908711,
+          42.9939128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813554,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Крушовица, Елин Пелин, Софийска, 2112, Бългaрия",
+        "uuid": "f2df2d18-255f-42af-ae1d-0f4599d7031a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6380606,
+          42.5616298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488796,
+        "n_properties": 10,
+        "place_type": "town",
+        "display_name": "Своге, Софийска, 2260, Бългaрия",
+        "uuid": "1e82953d-ad5e-4739-a552-be73d0cd162b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3456154,
+          42.9605002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880756,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Гургулят, Сливница, Софийска, 2223, Бългaрия",
+        "uuid": "3a6968f3-a3f2-4489-a3a7-fd78299e7b8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9757,
+          42.79134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877626,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Гълъбовци, Сливница, Софийска, 2223, Бългaрия",
+        "uuid": "d6d795c2-c918-4375-ab8d-650da7627f28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0075412,
+          42.8105627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817526,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Владиславци, Драгоман, Софийска, Бългaрия",
+        "uuid": "f82baa8a-fb4c-446a-b8e5-7a2a47c4393f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8414883,
+          42.9205749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881036,
+        "n_properties": 7,
+        "place_type": "village",
+        "display_name": "Томпсън, Своге, Софийска, 2260, Бългaрия",
+        "uuid": "e2801b20-caa7-4e44-ac6f-3741f2307780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3799404,
+          42.9286064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815133,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Искрец, Своге, Софийска, Бългaрия",
+        "uuid": "292ffdcd-c397-4712-9599-ed72ff8bf10b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2523047,
+          42.9869388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815554,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Огоя, Своге, Софийска, Бългaрия",
+        "uuid": "59255f3c-2b5e-448d-ad70-28bba80d6e16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51931,
+          42.90884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813858,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Лопушня, Годеч, Софийска, 2240, Бългaрия",
+        "uuid": "41ddc69f-8451-46e3-a4f3-7825366d015e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.061831,
+          42.9813177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881047,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Осиковица, Правец, Софийска, 2164, Бългaрия",
+        "uuid": "e8dc738d-0bf6-4bd8-bbed-6d8e0cbc5b1b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0106718,
+          42.9367642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817992,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Трудовец, Ботевград, Софийска, 2160, Бългaрия",
+        "uuid": "9a480d3f-0ab2-460d-b4e9-6f75c6076a66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84001,
+          42.9182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873570,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Повалиръж, Сливница, Софийска, Бългaрия",
+        "uuid": "005c183b-a48a-44b8-b6da-b060d77fdc7f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8939382,
+          42.8361124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875077,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Бов, Своге, Софийска, Бългaрия",
+        "uuid": "7061cce9-8ada-4144-9af7-744452ab6eb3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.37708,
+          43.03295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877424,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Борика, Софийска, Бългaрия",
+        "uuid": "4a862909-ffe8-43ed-bb6d-1aea2dd52427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6610012,
+          42.4867393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815802,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Костенец, Софийска, 2042, Бългaрия",
+        "uuid": "b6ec7650-71aa-4e68-9d62-67f1994e3b5a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82735,
+          42.2627561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873720,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Бойковец, Етрополе, Софийска, 2181, Бългaрия",
+        "uuid": "66ae446c-f474-4ad2-b05b-b6677c2870c4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9192001,
+          42.832271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813976,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Гуцал, Самоков, Софийска, Бългaрия",
+        "uuid": "461683f9-528f-4419-b6ae-11b9bd9e149f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7057018,
+          42.3421675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812803,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Новачене, Ботевград, Софийска, Бългaрия",
+        "uuid": "df579a31-9521-49c1-b309-7fc508fc6865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7305179,
+          42.9777956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879906,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Любница, Софийска, Бългaрия",
+        "uuid": "76b976f1-981d-4428-91a4-a086e8ba693f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9698405,
+          42.4019346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814326,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Бърложница, Сливница, Софийска, 2219, Бългaрия",
+        "uuid": "41a6ef68-92ed-4055-b82a-15e1be147e30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9433,
+          42.84897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873837,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Церово, Своге, Софийска, 2260, Бългaрия",
+        "uuid": "06e9e6b6-6190-4906-bf2e-520b21e4e547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3479348,
+          43.00368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879314,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Сливница, Кресна, Благоевград, 2844, Бългaрия",
+        "uuid": "4852f9cf-d707-41bf-9bde-ca2a3f0a5c39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1666339,
+          41.6916289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815795,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Петърч, Костинброд, Софийска, Бългaрия",
+        "uuid": "b330c74f-4786-4148-97ba-6c9f8d8a5e63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1468556,
+          42.8446876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880197,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Радотина, Ботевград, Софийска, Бългaрия",
+        "uuid": "bd703c49-cde6-458f-a296-bf6882afa5cf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6347696,
+          42.9927424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880413,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Шипочане, Самоков, Софийска, Бългaрия",
+        "uuid": "0cb2da22-af75-40b7-889b-c00889d0c835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.61041,
+          42.34588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878970,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Габровница, Своге, Софийска, Бългaрия",
+        "uuid": "d9a4f556-c6fd-4549-bd58-df3106cc2e5c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47433,
+          43.06462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813491,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Добърчин, Своге, Софийска, Бългaрия",
+        "uuid": "95f2062f-1ff1-45fb-a598-cec4cf3c18fa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2850265,
+          42.9950961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816753,
+        "n_properties": 11,
+        "place_type": "village",
+        "display_name": "Владо Тричков, Своге, Софийска, 2299, Бългaрия",
+        "uuid": "7379d47f-1873-4285-b6d6-3409fd523308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.365089,
+          42.864306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881211,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Бучин проход, Костинброд, Софийска, Бългaрия",
+        "uuid": "e72a35bb-f59d-4146-a692-43880c4ace84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1425283,
+          42.9700914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881544,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Нови хан, Елин Пелин, Софийска, 2110, Бългaрия",
+        "uuid": "8f22cd33-f049-44d4-b9be-d75b414e0927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5960002,
+          42.6057156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488716,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Горна Малина, Софийска, 2131, Бългaрия",
+        "uuid": "5b2eada0-05b0-4341-baba-9755f7da7e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7059625,
+          42.6939963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817030,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Белчински бани, Самоков, Софийска, 2025, Бългaрия",
+        "uuid": "1ac00677-b237-441a-8c9d-1373fd25a7cb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4137481,
+          42.3662792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875750,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Елин Пелин, Софийска, 2109, Бългaрия",
+        "uuid": "8fc6f680-05ea-48cf-aa60-28b69c6c12ea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5821694,
+          42.6255283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816170,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Горни Окол, Самоков, Софийска, Бългaрия",
+        "uuid": "6300061c-1be3-49df-bc83-d1bccc61d44c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5180804,
+          42.4656796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877131,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Горна Василица, Костенец, Софийска, 2035, Бългaрия",
+        "uuid": "23895f77-57a2-4716-837b-69846cff8009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84975,
+          42.34674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875603,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Горно Камарци, Горна Малина, Софийска, Бългaрия",
+        "uuid": "ff7c4c43-1202-4d16-854f-a6125411bb41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81782,
+          42.75782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874635,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Широки дол, Самоков, Софийска, 2017, Бългaрия",
+        "uuid": "946742ef-9b0c-417c-a532-66d27b780ea7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51467,
+          42.39068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875750,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Елин Пелин, Софийска, 2109, Бългaрия",
+        "uuid": "104eee5d-fdaa-4a34-a93f-d43ced2242b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5821694,
+          42.6255283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1699444675,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Равно поле, Елин Пелин, Софийска, Бългaрия",
+        "uuid": "e09acf15-b50e-46da-9d08-83a43a38dfe9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5262144,
+          42.6675996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879969,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ново село, Кюстендил, Бългaрия",
+        "uuid": "f68a799a-ca15-42b2-b1a0-28a8cb5e3de3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6794411,
+          42.1946141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874316,
+        "n_properties": 1,
+        "place_type": "town",
+        "display_name": "Добринище, Банско, Благоевград, 2777, Бългaрия",
+        "uuid": "a87d6f47-3e70-4b6e-a878-b74c12073a8e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5629827,
+          41.8210798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488812,
+        "n_properties": 2,
+        "place_type": "town",
+        "display_name": "Сандански, Благоевград, 2800, Бългaрия",
+        "uuid": "acad327e-fd25-406d-b18d-97ae2438f6be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2786429,
+          41.5654156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876647,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Ново бърдо, Драгоман, Софийска, Бългaрия",
+        "uuid": "c0c3672e-bd05-4ea0-8fc0-acdd66dc2d9a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8483511,
+          42.9671868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879973,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Манаселска река, Правец, Софийска, Бългaрия",
+        "uuid": "37f54225-ee16-439f-abcc-74ab73461613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0121,
+          43.04038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 31058174,
+        "n_properties": 1,
+        "place_type": "city",
+        "display_name": "Габрово, 5303, Бългaрия",
+        "uuid": "bd6072b0-adc6-44ba-8fa6-1b0433399b09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.315798,
+          42.8710344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 4283101,
+        "n_properties": 20,
+        "place_type": "city",
+        "display_name": "София, Столична, София-град, Бългaрия",
+        "uuid": "2b70fc40-3724-4fe1-9260-bd8f177a124f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3217359,
+          42.6977028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 31058171,
+        "n_properties": 1,
+        "place_type": "city",
+        "display_name": "Благоевград, 2700, Бългaрия",
+        "uuid": "454d520f-8e98-4f55-abdb-7bb9d5ff2335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0906457,
+          42.0111077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 1698668366,
+        "n_properties": 1,
+        "place_type": "city",
+        "display_name": "Пловдив, 4000, Бългaрия",
+        "uuid": "6b08cbb6-ca34-458b-b51e-e1ec5d184458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7499297,
+          42.1418541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 11240822,
+        "n_properties": 1,
+        "place_type": "city",
+        "display_name": "Русе, Бългaрия",
+        "uuid": "7d6d63da-50d5-4745-901b-ddde42187412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.957973495516235,
+          43.8350657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 31058181,
+        "n_properties": 1,
+        "place_type": "city",
+        "display_name": "Пазарджик, 4400, Бългaрия",
+        "uuid": "938d6ab8-03d8-4209-8502-313db02f9829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3318993,
+          42.1884549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879648,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Драгоил, Драгоман, Софийска, Бългaрия",
+        "uuid": "9f8d3f1f-4022-48a1-9447-6fa093814de4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8809,
+          42.94223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875894,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Микрево, Струмяни, Благоевград, 2826, Бългaрия",
+        "uuid": "3022bb44-30e2-4d77-9dad-b7f730309c11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.19516,
+          41.62456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814622,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Добърско, Разлог, Благоевград, 2799, Бългaрия",
+        "uuid": "01a95fb1-bf1d-4476-9eee-74ccec628400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4766718,
+          41.9695499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873479,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Беласица, Петрич, Благоевград, 2881, Бългaрия",
+        "uuid": "4afecd84-687b-47a5-9080-5342b6f79281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1421201,
+          41.3685301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878592,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Долно Драглище, Разлог, Благоевград, 2798, Бългaрия",
+        "uuid": "a30f0a8e-b41a-4088-b538-118b01177d96"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5136808,
+          41.9341501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874697,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Хърсово, Сандански, Благоевград, 2819, Бългaрия",
+        "uuid": "5eefb3b2-f920-428c-84c4-e99869900bcb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3843858,
+          41.4621586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814854,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Долен, Сатовча, Благоевград, 2968, Бългaрия",
+        "uuid": "8e5b9996-3fa2-4dcc-aabf-e01e7399de71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9317975,
+          41.6239563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879571,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Стара Кресна, Кресна, Благоевград, 2845, Бългaрия",
+        "uuid": "9403db5d-a98a-43ae-bf7a-56ebb46e6953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1807305,
+          41.7891727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817161,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Абланица, Хаджидимово, Благоевград, 2932, Бългaрия",
+        "uuid": "53065ca9-d255-4f77-b6e0-9e6cb30196fb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.93361,
+          41.53714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814552,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Бистрица, Панчарево, Столична, София-град, 1444, Бългaрия",
+        "uuid": "90955aaa-97de-4941-a8b2-1a5a2ede5947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3597742,
+          42.5861345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879347,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Баня, Разлог, Благоевград, 2778, Бългaрия",
+        "uuid": "0b8589ec-28e8-4f7f-962e-998fc8f7bb7c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5257021,
+          41.8815433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813644,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Виногради, Сандански, Благоевград, 2822, Бългaрия",
+        "uuid": "be097ffb-f27d-48aa-8823-348bc929d6c9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3845499,
+          41.4969701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876992,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Бачево, Разлог, Благоевград, 2769, Бългaрия",
+        "uuid": "9a324f83-24c2-4e03-8bbe-fc69c1485a46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4527238,
+          41.9219214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488875,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Струмяни, Благоевград, 2825, Бългaрия",
+        "uuid": "46d8c3d9-1599-45eb-8b83-dfd89294d2f9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2021914,
+          41.6384659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814979,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Обидим, Банско, Благоевград, 2776, Бългaрия",
+        "uuid": "ff22cc21-a738-4fbd-94dc-bdfa7c92fc90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.64097,
+          41.78781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877069,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Пирин, Сандански, Благоевград, 2823, Бългaрия",
+        "uuid": "e0c475a5-3be8-4ead-88f1-462e548bf2e3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5601569,
+          41.545522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813227,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Огняново, Гърмен, Благоевград, 2947, Бългaрия",
+        "uuid": "07c52c0a-0cfb-41d6-9152-408874772c24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7873611,
+          41.6120332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814783,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Лъки, Хаджидимово, Благоевград, 2928, Бългaрия",
+        "uuid": "ced38150-a40d-408e-a976-451f8b65b417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7200034,
+          41.4672883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873080,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Градево, Симитли, Благоевград, 2755, Бългaрия",
+        "uuid": "44a1bac5-fe55-49a9-b054-c1739fa336e1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1941407,
+          41.91771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873711,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Крупник, Симитли, Благоевград, 2740, Бългaрия",
+        "uuid": "d8ff03fc-ef91-4edd-ad08-c609780ea451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1218421,
+          41.8470663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815922,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Балдево, Гърмен, Благоевград, 2948, Бългaрия",
+        "uuid": "e5183d14-0483-471a-b0e5-6d6e5a9234c3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.76997,
+          41.62898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488673,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Гърмен, Благоевград, 2960, Бългaрия",
+        "uuid": "f6e2bf28-256f-494b-87ce-16fc5e30caf3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8076854,
+          41.5967569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814625,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Скребатно, Гърмен, Благоевград, 2964, Бългaрия",
+        "uuid": "ce0f4672-ce3c-40bb-a348-bfda23bec7bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79916,
+          41.66005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812213,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Годлево, Разлог, Благоевград, 2768, Бългaрия",
+        "uuid": "8665d7ae-c72f-43ab-b2b0-8385594d0193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.477318,
+          41.9286061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814665,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Кремен, Банско, Благоевград, 2771, Бългaрия",
+        "uuid": "27bc23db-2aed-4f14-83a8-97041803b02d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.64063,
+          41.74523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816773,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ковачевица, Гърмен, Благоевград, 2969, Бългaрия",
+        "uuid": "e54d5935-7c31-4211-b667-32306cf14ba1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82551,
+          41.68481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814222,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ново Лески, Хаджидимово, Благоевград, 2923, Бългaрия",
+        "uuid": "ce5fac4e-6469-46b2-b8a3-1f75355b695b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.77886,
+          41.53169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877323,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Братаница, Пазарджик, 4477, Бългaрия",
+        "uuid": "d6e7a342-30c4-4c50-aa3a-04266e580b86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.21634,
+          42.16508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488702,
+        "n_properties": 1,
+        "place_type": "town",
+        "display_name": "Етрополе, Софийска, 2180, Бългaрия",
+        "uuid": "a5b94682-7a7a-42e7-817b-32a93582ddc0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9956816,
+          42.8321031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488803,
+        "n_properties": 6,
+        "place_type": "town",
+        "display_name": "Гоце Делчев, Благоевград, 2900, Бългaрия",
+        "uuid": "a375401e-85bb-4e9f-a71c-55c2fb0a2cb8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7281082,
+          41.5733011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488940,
+        "n_properties": 10,
+        "place_type": "town",
+        "display_name": "Долна баня, Софийска, Бългaрия",
+        "uuid": "7f829dce-0220-4bbc-9b57-7000da0470d1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7645019,
+          42.3108246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488750,
+        "n_properties": 2,
+        "place_type": "town",
+        "display_name": "Банско, Благоевград, 2770, Бългaрия",
+        "uuid": "180a5d8d-7745-4eb5-b471-f20632e090af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4841698,
+          41.8344086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816527,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Овчеполци, Пазарджик, 4421, Бългaрия",
+        "uuid": "27984531-4637-457b-ab29-2fdc102014f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.40087,
+          42.33335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878551,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Поибрене, Панагюрище, Пазарджик, Бългaрия",
+        "uuid": "a3463723-83fa-4e87-a05d-671992a0b3b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.99923,
+          42.50381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876782,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Елшица, Панагюрище, Пазарджик, Бългaрия",
+        "uuid": "ff14ac5d-a119-4e5f-b693-76d5b40c8b28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.21582,
+          42.36957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813379,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Дюлево, Стрелча, Пазарджик, 4529, Бългaрия",
+        "uuid": "92e1c962-c1c9-4c4c-9ee1-a25a7b32ecd2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38031,
+          42.4499001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875064,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Добровница, Пазарджик, 4401, Бългaрия",
+        "uuid": "d13af2b4-b7f8-4c02-bda5-09415faa5262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3798,
+          42.21078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273877682,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Паталеница, Пазарджик, Бългaрия",
+        "uuid": "01a85be4-c466-46e8-96b4-02b4e6c3dd6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2009771,
+          42.1198416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879823,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Бошуля, Септември, Пазарджик, 4477, Бългaрия",
+        "uuid": "50655a46-ca3d-4f1c-b41c-47545a126a89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.18655,
+          42.2458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880161,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Капитан Димитриево, Пещера, Пазарджик, Бългaрия",
+        "uuid": "33d00872-eb1e-473d-a200-cdf47862a8d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3292867,
+          42.1034882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879541,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Радилово, Пещера, Пазарджик, Бългaрия",
+        "uuid": "410a1794-9dd7-42c8-a968-c06e95223b06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3092,
+          42.07993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874922,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Априлци, Пазарджик, 4444, Бългaрия",
+        "uuid": "19b979dc-6b82-4f3f-8ae8-1ac38133ffa7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.29161,
+          42.31232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273814068,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Розово, Брацигово, Пазарджик, 4579, Бългaрия",
+        "uuid": "edea5c0d-0611-48cc-aa28-98b2ee9a704f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3725912,
+          42.0091148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488988,
+        "n_properties": 3,
+        "place_type": "town",
+        "display_name": "Разлог, Благоевград, 2760, Бългaрия",
+        "uuid": "dd2d4ac5-76e0-46f9-a7ef-023d81867cd4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4661521,
+          41.8861079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488945,
+        "n_properties": 2,
+        "place_type": "town",
+        "display_name": "Симитли, Благоевград, 2730, Бългaрия",
+        "uuid": "637b1f81-6a93-4c32-a14a-c53ced2fd88c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.108109,
+          41.8933839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488749,
+        "n_properties": 1,
+        "place_type": "town",
+        "display_name": "Хаджидимово, Благоевград, 2933, Бългaрия",
+        "uuid": "4ccdf6e3-9b07-4e54-97c9-b63dbefd4bef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8536925,
+          41.5167556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 266013327,
+        "n_properties": 6,
+        "place_type": "town",
+        "display_name": "Велинград, Пазарджик, 4600, Бългaрия",
+        "uuid": "6b8b0f5c-abe7-4b74-af67-4a6125902c34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9944408,
+          42.0283589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488856,
+        "n_properties": 4,
+        "place_type": "town",
+        "display_name": "Брацигово, Пазарджик, 4579, Бългaрия",
+        "uuid": "673d203d-31e9-42ed-9feb-21b78ccc1fa0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.368903,
+          42.027104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876475,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Дебръщица, Пазарджик, 4414, Бългaрия",
+        "uuid": "3fc1fc89-26f8-4bdb-b784-1ddcbb6febd2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2537396,
+          42.1025919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815275,
+        "n_properties": 6,
+        "place_type": "town",
+        "display_name": "Ветрен, Септември, Пазарджик, Бългaрия",
+        "uuid": "e0b7e61f-dce1-4f83-802f-7e6af265eb31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.04463,
+          42.28236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881096,
+        "n_properties": 5,
+        "place_type": "village",
+        "display_name": "Равногор, Брацигово, Пазарджик, Бългaрия",
+        "uuid": "0e535e82-96fc-4c4e-b11e-1ccf9dd397f6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3683,
+          41.94964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273876930,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Злокучене, Септември, Пазарджик, 4477, Бългaрия",
+        "uuid": "418cf830-c659-43b6-8aaf-8359779905ab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.16771,
+          42.21799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880946,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Свобода, Кърджали, 6643, Бългaрия",
+        "uuid": "ec382d3c-f4c6-49b7-a65b-fd916f3b40f8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.41818,
+          41.57477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880839,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Карабунар, Септември, Пазарджик, Бългaрия",
+        "uuid": "24825489-e446-4967-8b1a-baec607391c0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.17509,
+          42.26584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816634,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Голямо Белово, Белово, Пазарджик, Бългaрия",
+        "uuid": "a83b9920-047e-4b5d-a26a-5c5a68e7dd07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.987135,
+          42.1923137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873359,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Пищигово, Пазарджик, Бългaрия",
+        "uuid": "05d84c14-ab74-4621-b1e7-5bb92cf21a5a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4299331,
+          42.2488214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273817432,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Мирянци, Пазарджик, 4401, Бългaрия",
+        "uuid": "6db59987-e7b3-40e8-ab6f-29dea232d203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.36598,
+          42.16027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273873601,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Попинци, Панагюрище, Пазарджик, Бългaрия",
+        "uuid": "5d48f590-0001-47cb-8b16-f4f9fde68bf0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2793634,
+          42.4241429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879581,
+        "n_properties": 4,
+        "place_type": "village",
+        "display_name": "Бяга, Брацигово, Пазарджик, 4579, Бългaрия",
+        "uuid": "c0f52944-560d-4643-b130-7e3df14befef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37911,
+          42.06654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881006,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Мало Конаре, Пазарджик, 4417, Бългaрия",
+        "uuid": "4dff62a5-163b-4176-a8ab-8192963e6dbb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43319,
+          42.19773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273813389,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Черногорово, Пазарджик, Бългaрия",
+        "uuid": "2458bc35-0fc1-4d4c-a84c-66c79785f6f6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.399011,
+          42.276354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488711,
+        "n_properties": 1,
+        "place_type": "town",
+        "display_name": "Панагюрище, Пазарджик, 4500, Бългaрия",
+        "uuid": "8e825903-b143-4cd4-a1cb-0db37fc344a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1888411,
+          42.5043065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880544,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Варвара, Септември, Пазарджик, 4490, Бългaрия",
+        "uuid": "88eb4416-3332-492d-98a9-654079b31011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1245,
+          42.1622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273815700,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Дорково, Ракитово, Пазарджик, 4644, Бългaрия",
+        "uuid": "1d5bc8dc-398b-4452-baaf-2dcbb041521c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1275069,
+          42.0456442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273816930,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Дъбравите, Белово, Пазарджик, Бългaрия",
+        "uuid": "d17846f7-8d10-4764-b416-a6ac7c529523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01888,
+          42.22451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880592,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Мененкьово, Белово, Пазарджик, Бългaрия",
+        "uuid": "25d5e1e5-9f8f-4675-8cfb-f17dae355500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.05506,
+          42.22983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273488746,
+        "n_properties": 1,
+        "place_type": "town",
+        "display_name": "Стрелча, Пазарджик, 4530, Бългaрия",
+        "uuid": "12ae16e6-38fd-4b4a-ae7b-d84e9c20d4b5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3191525,
+          42.5067255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879435,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Левски, Панагюрище, Пазарджик, Бългaрия",
+        "uuid": "fb402137-65a6-48fe-89f0-325466759b4b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.28217,
+          42.36579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 270687419,
+        "n_properties": 4,
+        "place_type": "town",
+        "display_name": "Ракитово, Пазарджик, 4640, Бългaрия",
+        "uuid": "f615585e-8948-4457-85a1-547e6d583aed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0876515,
+          41.9911914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879174,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Црънча, Пазарджик, 4414, Бългaрия",
+        "uuid": "c5d04769-a947-444e-8eeb-8db5da5ad464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22337,
+          42.11413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812201,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Виноградец, Септември, Пазарджик, Бългaрия",
+        "uuid": "e71ec5fe-cee1-44ef-aed4-e16aafef4dbb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12677,
+          42.29129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879629,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Гелеменово, Пазарджик, 4444, Бългaрия",
+        "uuid": "f81e6f7e-c791-454d-bbfe-010bf07412e6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.31749,
+          42.27138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273874300,
+        "n_properties": 2,
+        "place_type": "village",
+        "display_name": "Росен, Пазарджик, 4421, Бългaрия",
+        "uuid": "6c42ae47-e1df-4141-8918-888fe8167b28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3661622,
+          42.3158232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273875102,
+        "n_properties": 3,
+        "place_type": "village",
+        "display_name": "Момина клисура, Белово, Пазарджик, Бългaрия",
+        "uuid": "0cef99fc-3f0e-44b7-9931-1ed334453b06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.97485,
+          42.22795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880504,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Оборище, Панагюрище, Пазарджик, Бългaрия",
+        "uuid": "e1df98fa-2c45-44ac-bcc3-3d2a97ca63a4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0770604,
+          42.5166542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881609,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Цар Асен, Пазарджик, Бългaрия",
+        "uuid": "52880252-59c2-4699-acf6-10ae8b8b5d0d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.34658,
+          42.36227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273880767,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ветрен дол, Септември, Пазарджик, Бългaрия",
+        "uuid": "234701ce-dfaa-4bca-acf7-3ce2846a2297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.15076,
+          42.15787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812318,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Динката, Пазарджик, Бългaрия",
+        "uuid": "2c65089b-b955-435d-8d86-cffb411aac24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.22621,
+          42.28889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273812353,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Ивайло, Пазарджик, 4400, Бългaрия",
+        "uuid": "838852b8-2b35-4708-aad4-aa47eb2a8c3f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.325874,
+          42.2244095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273879288,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Звъничево, Пазарджик, Бългaрия",
+        "uuid": "51aa9817-ba7e-43f4-8f22-9e7e719fda5c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2492061,
+          42.1903511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881630,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Козарско, Брацигово, Пазарджик, Бългaрия",
+        "uuid": "b306faf5-a8c4-4e98-89d2-4871ffae4c41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41933,
+          42.05714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273881454,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Сбор, Пазарджик, Бългaрия",
+        "uuid": "4ce8492d-e7e4-43c0-8e30-12dc0a19f611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.297106,
+          42.3403728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 273878575,
+        "n_properties": 1,
+        "place_type": "village",
+        "display_name": "Щърково, Пазарджик, Бългaрия",
+        "uuid": "3aa5bc75-f02d-494a-a7cf-35f96645cc24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.23191,
+          42.30305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 270706235,
+        "n_properties": 8,
+        "place_type": "town",
+        "display_name": "Батак, Пазарджик, 4580, Бългaрия",
+        "uuid": "5e917693-fe3a-45d8-b273-253c41435855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.218337,
+          41.9429717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": 270706123,
+        "n_properties": 5,
+        "place_type": "town",
+        "display_name": "Пещера, Пазарджик, Бългaрия",
+        "uuid": "e2746c9b-8185-44ab-8a62-f36256e98203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.305207,
+          42.0336471
+        ]}},{"type":"Feature","properties":{"osm_id":273880509,"n_properties":2,"place_type":"village","display_name":"Стефаново, Ловеч, Бългaрия","uuid":"3377bfde-3974-4717-b127-4f8a036ad263"},"geometry":{"type":"Point","coordinates":[24.8096,43.02128]}},{"type":"Feature","properties":{"osm_id":273812154,"n_properties":3,"place_type":"village","display_name":"Катунец, Угърчин, Ловеч, Бългaрия","uuid":"d91ed812-8eaf-402b-9dab-9697f198b542"},"geometry":{"type":"Point","coordinates":[24.50353,43.20384]}},{"type":"Feature","properties":{"osm_id":273878694,"n_properties":4,"place_type":"village","display_name":"Лисец, Ловеч, Бългaрия","uuid":"08a59975-9d7a-4358-9e8e-f76bd5192cee"},"geometry":{"type":"Point","coordinates":[24.65617,43.18358]}},{"type":"Feature","properties":{"osm_id":273816983,"n_properties":1,"place_type":"village","display_name":"Черни Вит, Тетевен, Ловеч, Бългaрия","uuid":"de41c3e3-a199-4b1b-9134-ce1377a6b8d6"},"geometry":{"type":"Point","coordinates":[24.19552,42.88176]}},{"type":"Feature","properties":{"osm_id":273873380,"n_properties":5,"place_type":"village","display_name":"Радювене, Ловеч, Бългaрия","uuid":"e73d12e8-ef24-4fd5-95bb-5b63433026d7"},"geometry":{"type":"Point","coordinates":[24.60223,43.12273]}},{"type":"Feature","properties":{"osm_id":273881146,"n_properties":8,"place_type":"village","display_name":"Шипково, Троян, Ловеч, 5663, Бългaрия","uuid":"e0d55325-20c6-4745-9c37-f5a97c3e0818"},"geometry":{"type":"Point","coordinates":[24.55708,42.8794]}},{"type":"Feature","properties":{"osm_id":273817593,"n_properties":4,"place_type":"village","display_name":"Черни Осъм, Троян, Ловеч, 5630, Бългaрия","uuid":"af46ccd9-7564-4215-b451-f2fd1fc44618"},"geometry":{"type":"Point","coordinates":[24.77162,42.84438]}},{"type":"Feature","properties":{"osm_id":273877737,"n_properties":4,"place_type":"village","display_name":"Крушуна, Летница, Ловеч, Бългaрия","uuid":"5d54043b-fccf-4133-8ca0-abcb946ec792"},"geometry":{"type":"Point","coordinates":[25.03366,43.25358]}},{"type":"Feature","properties":{"osm_id":357444883,"n_properties":4,"place_type":"town","display_name":"Сопот, Пловдив, 4330, Бългaрия","uuid":"b00ea74a-2958-479f-bfea-c5c2799e7072"},"geometry":{"type":"Point","coordinates":[24.7554866,42.6543846]}},{"type":"Feature","properties":{"osm_id":273488698,"n_properties":2,"place_type":"town","display_name":"Летница, Ловеч, Бългaрия","uuid":"6d9b5b10-d00b-4085-9b5e-e2b5702d7b01"},"geometry":{"type":"Point","coordinates":[25.0540972,43.3058111]}},{"type":"Feature","properties":{"osm_id":273817120,"n_properties":3,"place_type":"village","display_name":"Чифлик, Кърджали, 6674, Бългaрия","uuid":"76379768-5b22-4b48-8dbd-9aae733548c1"},"geometry":{"type":"Point","coordinates":[25.4969127,41.6827542]}},{"type":"Feature","properties":{"osm_id":273817490,"n_properties":6,"place_type":"village","display_name":"Орешак, Троян, Ловеч, 5630, Бългaрия","uuid":"27dba614-93e3-48f0-85fd-00f0bece25eb"},"geometry":{"type":"Point","coordinates":[24.7674588,42.8876014]}},{"type":"Feature","properties":{"osm_id":273878745,"n_properties":1,"place_type":"village","display_name":"Баховица, Ловеч, Бългaрия","uuid":"80997d02-4baa-4267-967f-c132ad15b9ab"},"geometry":{"type":"Point","coordinates":[24.6831063,43.188217]}},{"type":"Feature","properties":{"osm_id":273488989,"n_properties":29,"place_type":"town","display_name":"Априлци, Ловеч, 5641, Бългaрия","uuid":"577fc8ee-20a7-4b66-8824-411715e08c48"},"geometry":{"type":"Point","coordinates":[24.9134025,42.8407855]}},{"type":"Feature","properties":{"osm_id":273872811,"n_properties":3,"place_type":"village","display_name":"Българене, Ловеч, Бългaрия","uuid":"d8bed2f3-a37a-469c-a896-e3f78692e5eb"},"geometry":{"type":"Point","coordinates":[24.76449,43.04402]}},{"type":"Feature","properties":{"osm_id":262416942,"n_properties":2,"place_type":"village","display_name":"Торос, Луковит, Ловеч, Бългaрия","uuid":"6ef22f9a-7905-4b43-bb5c-b8731ea6ce13"},"geometry":{"type":"Point","coordinates":[24.2782711,43.0967069]}},{"type":"Feature","properties":{"osm_id":273878799,"n_properties":6,"place_type":"village","display_name":"Дълбок дол, Троян, Ловеч, Бългaрия","uuid":"c3b0e8b0-31e5-4824-bc6f-1c25ff68fd49"},"geometry":{"type":"Point","coordinates":[24.6471613,42.9643757]}},{"type":"Feature","properties":{"osm_id":273875059,"n_properties":2,"place_type":"village","display_name":"Добревци, Ябланица, Ловеч, Бългaрия","uuid":"a5897d75-4db7-47fb-b9fd-031ae3a9c912"},"geometry":{"type":"Point","coordinates":[24.0804993,43.0665145]}},{"type":"Feature","properties":{"osm_id":273488736,"n_properties":5,"place_type":"town","display_name":"Ябланица, Ловеч, Бългaрия","uuid":"50195882-66b8-42d1-a611-b957b29f0cf0"},"geometry":{"type":"Point","coordinates":[24.1007818,43.0254188]}},{"type":"Feature","properties":{"osm_id":273873018,"n_properties":3,"place_type":"village","display_name":"Васильово, Тетевен, Ловеч, 5720, Бългaрия","uuid":"a77b2c69-7c5f-4f66-9a45-6e09c3c091db"},"geometry":{"type":"Point","coordinates":[24.3761899,42.8785001]}},{"type":"Feature","properties":{"osm_id":273878770,"n_properties":3,"place_type":"village","display_name":"Лесидрен, Угърчин, Ловеч, Бългaрия","uuid":"013a2840-5bf6-4e3b-b26c-fad9f2b159f8"},"geometry":{"type":"Point","coordinates":[24.40448,42.97459]}},{"type":"Feature","properties":{"osm_id":273488741,"n_properties":5,"place_type":"town","display_name":"Тетевен, Ловеч, Бългaрия","uuid":"c8999a7d-f0cf-4e92-846b-64465247304e"},"geometry":{"type":"Point","coordinates":[24.26354,42.91837]}},{"type":"Feature","properties":{"osm_id":273814682,"n_properties":2,"place_type":"village","display_name":"Сливек, Ловеч, 5503, Бългaрия","uuid":"2a7f1d6c-b855-4c6e-803d-4dc3cdd723c6"},"geometry":{"type":"Point","coordinates":[24.74767,43.10093]}},{"type":"Feature","properties":{"osm_id":273881529,"n_properties":4,"place_type":"village","display_name":"Смочан, Ловеч, 5553, Бългaрия","uuid":"e76ae691-3c0e-44da-83a8-9682a9538e4a"},"geometry":{"type":"Point","coordinates":[24.8014,43.18255]}},{"type":"Feature","properties":{"osm_id":273877135,"n_properties":3,"place_type":"village","display_name":"Казачево, Ловеч, Бългaрия","uuid":"64867aca-0765-4efc-b744-92b79e240df0"},"geometry":{"type":"Point","coordinates":[24.74861,43.08059]}},{"type":"Feature","properties":{"osm_id":273816616,"n_properties":3,"place_type":"village","display_name":"Драгана, Угърчин, Ловеч, Бългaрия","uuid":"3c8b39d3-3325-4aa7-bada-c2aa15be12e3"},"geometry":{"type":"Point","coordinates":[24.39409,43.17835]}},{"type":"Feature","properties":{"osm_id":273813103,"n_properties":1,"place_type":"village","display_name":"Балканец, Троян, Ловеч, 5634, Бългaрия","uuid":"f3d57ed9-ba3e-417e-b981-1fda51ee1aff"},"geometry":{"type":"Point","coordinates":[24.66798,42.84507]}},{"type":"Feature","properties":{"osm_id":262417064,"n_properties":2,"place_type":"village","display_name":"Дерманци, Луковит, Ловеч, Бългaрия","uuid":"740d9c50-69c1-47ea-a42b-2ad81b0f2a1a"},"geometry":{"type":"Point","coordinates":[24.2793713,43.1535252]}},{"type":"Feature","properties":{"osm_id":273817772,"n_properties":1,"place_type":"village","display_name":"Врабево, Троян, Ловеч, Бългaрия","uuid":"73bbd8eb-9eda-4cc0-a767-c6462d63c9f8"},"geometry":{"type":"Point","coordinates":[24.81324,42.99334]}},{"type":"Feature","properties":{"osm_id":273874827,"n_properties":1,"place_type":"village","display_name":"Дойренци, Ловеч, 5553, Бългaрия","uuid":"ed9689c7-6c58-4c6a-b361-80f5dd95ebef"},"geometry":{"type":"Point","coordinates":[24.8327391,43.2332211]}},{"type":"Feature","properties":{"osm_id":273881604,"n_properties":3,"place_type":"village","display_name":"Карлуково, Луковит, Ловеч, Бългaрия","uuid":"8215030a-1822-48f4-860d-4ae19f8cf328"},"geometry":{"type":"Point","coordinates":[24.0659425,43.1652693]}},{"type":"Feature","properties":{"osm_id":273818011,"n_properties":1,"place_type":"village","display_name":"Чавдарци, Ловеч, Бългaрия","uuid":"6018ed11-2f4c-4012-985b-902670d5ecbd"},"geometry":{"type":"Point","coordinates":[24.99611,43.25066]}},{"type":"Feature","properties":{"osm_id":273879133,"n_properties":1,"place_type":"village","display_name":"Пещерна, Луковит, Ловеч, Бългaрия","uuid":"5057f2c9-ea1c-4b21-9f73-c08875c7002f"},"geometry":{"type":"Point","coordinates":[24.2482415,43.0791474]}},{"type":"Feature","properties":{"osm_id":273874216,"n_properties":1,"place_type":"village","display_name":"Тодоричене, Луковит, Ловеч, Бългaрия","uuid":"b587ded7-f412-4c9c-a5fc-46bb3b3845a8"},"geometry":{"type":"Point","coordinates":[24.17733,43.16436]}},{"type":"Feature","properties":{"osm_id":273881519,"n_properties":3,"place_type":"village","display_name":"Малка Желязна, Тетевен, Ловеч, 5724, Бългaрия","uuid":"40984c99-5844-4893-a146-cd9bbea31c85"},"geometry":{"type":"Point","coordinates":[24.319604,43.0070637]}},{"type":"Feature","properties":{"osm_id":273875682,"n_properties":4,"place_type":"village","display_name":"Бели Осъм, Троян, Ловеч, 5614, Бългaрия","uuid":"dc1df9a5-39b2-46c9-b637-781ca72e3805"},"geometry":{"type":"Point","coordinates":[24.6518,42.8588]}},{"type":"Feature","properties":{"osm_id":273877481,"n_properties":1,"place_type":"village","display_name":"Добродан, Троян, Ловеч, Бългaрия","uuid":"cd423216-6427-4c69-8cde-e71c1d58e399"},"geometry":{"type":"Point","coordinates":[24.7075,42.96841]}},{"type":"Feature","properties":{"osm_id":273813090,"n_properties":4,"place_type":"village","display_name":"Голяма Желязна, Троян, Ловеч, Бългaрия","uuid":"63860915-bc10-4a42-bf25-f5b3086e2c64"},"geometry":{"type":"Point","coordinates":[24.46567,42.97721]}},{"type":"Feature","properties":{"osm_id":267050507,"n_properties":16,"place_type":"town","display_name":"Троян, Ловеч, 5600, Бългaрия","uuid":"e0b0dc06-67ea-4c92-aebd-caa9f21d537d"},"geometry":{"type":"Point","coordinates":[24.7123534,42.8910697]}},{"type":"Feature","properties":{"osm_id":273877222,"n_properties":4,"place_type":"village","display_name":"Владиня, Ловеч, Бългaрия","uuid":"a5fe87d1-d7ca-48c2-87b2-757ae3e9d315"},"geometry":{"type":"Point","coordinates":[24.79552,43.29049]}},{"type":"Feature","properties":{"osm_id":273880110,"n_properties":2,"place_type":"village","display_name":"Умаревци, Ловеч, 5553, Бългaрия","uuid":"3b27e3bc-5a6c-42ce-923b-d2eef4436b69"},"geometry":{"type":"Point","coordinates":[24.78342,43.1914]}},{"type":"Feature","properties":{"osm_id":273876666,"n_properties":6,"place_type":"village","display_name":"Александрово, Ловеч, 5560, Бългaрия","uuid":"1da14587-4b7c-4129-a624-ef6269fad4eb"},"geometry":{"type":"Point","coordinates":[24.94645,43.26135]}},{"type":"Feature","properties":{"osm_id":273878831,"n_properties":1,"place_type":"village","display_name":"Гостиня, Ловеч, Бългaрия","uuid":"d6bd01d7-5ebb-46b7-934a-75df756889e7"},"geometry":{"type":"Point","coordinates":[24.83492,43.15166]}},{"type":"Feature","properties":{"osm_id":273878612,"n_properties":1,"place_type":"village","display_name":"Малиново, Ловеч, Бългaрия","uuid":"da56291a-6b86-4324-ae23-b0758f8d9f56"},"geometry":{"type":"Point","coordinates":[24.88474,43.03832]}},{"type":"Feature","properties":{"osm_id":273812541,"n_properties":1,"place_type":"village","display_name":"Хлевене, Ловеч, 5503, Бългaрия","uuid":"876e351d-b68d-4b69-ad68-e1ae5c223368"},"geometry":{"type":"Point","coordinates":[24.70742,43.08926]}},{"type":"Feature","properties":{"osm_id":273879692,"n_properties":1,"place_type":"village","display_name":"Бежаново, Луковит, Ловеч, Бългaрия","uuid":"a206a0cd-11c8-40fd-9504-696a4c4b95ea"},"geometry":{"type":"Point","coordinates":[24.3962727,43.2301185]}},{"type":"Feature","properties":{"osm_id":273813628,"n_properties":1,"place_type":"village","display_name":"Петревене, Луковит, Ловеч, Бългaрия","uuid":"6c94c144-c4f6-4167-ad6f-1d52d556b5b0"},"geometry":{"type":"Point","coordinates":[24.1459583,43.1600962]}},{"type":"Feature","properties":{"osm_id":273877437,"n_properties":2,"place_type":"village","display_name":"Микре, Угърчин, Ловеч, Бългaрия","uuid":"b5faf334-16c5-47b8-b6cc-3198bab40ea3"},"geometry":{"type":"Point","coordinates":[24.5221318,43.033415]}},{"type":"Feature","properties":{"osm_id":273488884,"n_properties":1,"place_type":"town","display_name":"Луковит, Ловеч, Бългaрия","uuid":"38f3bfa7-94f3-4c2d-8ccc-08713f185dfb"},"geometry":{"type":"Point","coordinates":[24.1619125,43.2064255]}},{"type":"Feature","properties":{"osm_id":273874814,"n_properties":1,"place_type":"village","display_name":"Ломец, Троян, Ловеч, Бългaрия","uuid":"ae3515e4-f52e-413c-b07d-b04e30489987"},"geometry":{"type":"Point","coordinates":[24.64836,42.99098]}},{"type":"Feature","properties":{"osm_id":273817201,"n_properties":3,"place_type":"village","display_name":"Дебнево, Троян, Ловеч, Бългaрия","uuid":"531d11be-cb14-4461-8f06-89ae3406bb42"},"geometry":{"type":"Point","coordinates":[24.84513,42.96]}},{"type":"Feature","properties":{"osm_id":273816972,"n_properties":1,"place_type":"village","display_name":"Горан, Ловеч, Бългaрия","uuid":"65086c58-d2c8-4414-bf22-56602361de0f"},"geometry":{"type":"Point","coordinates":[24.743612,43.2028423]}},{"type":"Feature","properties":{"osm_id":273880571,"n_properties":4,"place_type":"village","display_name":"Горно трапе, Троян, Ловеч, 5614, Бългaрия","uuid":"87b414ab-b76f-4818-851c-4421a87b2562"},"geometry":{"type":"Point","coordinates":[24.6589741,42.874269]}},{"type":"Feature","properties":{"osm_id":273814271,"n_properties":2,"place_type":"village","display_name":"Рибарица, Тетевен, Ловеч, 5720, Бългaрия","uuid":"4b15605a-b78c-4bb0-b600-575146af9a5b"},"geometry":{"type":"Point","coordinates":[24.37079,42.84061]}},{"type":"Feature","properties":{"osm_id":273877172,"n_properties":1,"place_type":"village","display_name":"Скандалото, Априлци, Ловеч, Бългaрия","uuid":"5ff488a6-550a-4845-a75a-af616d0be31f"},"geometry":{"type":"Point","coordinates":[24.86346,42.8809]}},{"type":"Feature","properties":{"osm_id":273877713,"n_properties":2,"place_type":"village","display_name":"Велчево, Априлци, Ловеч, Бългaрия","uuid":"1504be31-65c6-4801-8ad8-328f9e344a82"},"geometry":{"type":"Point","coordinates":[24.83204,42.89245]}},{"type":"Feature","properties":{"osm_id":273879351,"n_properties":1,"place_type":"village","display_name":"Гложене, Тетевен, Ловеч, Бългaрия","uuid":"1cc4905d-283a-4858-ab03-7968a861d031"},"geometry":{"type":"Point","coordinates":[24.1858751,42.9893853]}},{"type":"Feature","properties":{"osm_id":273877534,"n_properties":1,"place_type":"village","display_name":"Гумощник, Троян, Ловеч, Бългaрия","uuid":"a0f98a53-24be-4c24-8801-9f39bddf39b3"},"geometry":{"type":"Point","coordinates":[24.8545017,42.9271579]}},{"type":"Feature","properties":{"osm_id":273872922,"n_properties":1,"place_type":"village","display_name":"Горско Сливово, Летница, Ловеч, Бългaрия","uuid":"61454539-8755-4ed2-a700-0d7a449bd123"},"geometry":{"type":"Point","coordinates":[25.06949,43.20672]}},{"type":"Feature","properties":{"osm_id":273878600,"n_properties":1,"place_type":"village","display_name":"Славяни, Ловеч, Бългaрия","uuid":"fd2b295c-527a-423d-a719-0e5dd3cc1210"},"geometry":{"type":"Point","coordinates":[24.6856076,43.2205713]}},{"type":"Feature","properties":{"osm_id":273876524,"n_properties":1,"place_type":"village","display_name":"Голям извор, Тетевен, Ловеч, 5741, Бългaрия","uuid":"6a78ecbc-f99e-480d-a034-db7146d75b06"},"geometry":{"type":"Point","coordinates":[24.10171,42.96274]}},{"type":"Feature","properties":{"osm_id":273881212,"n_properties":1,"place_type":"village","display_name":"Балабанско, Троян, Ловеч, 5615, Бългaрия","uuid":"5c0d557f-53ac-4aee-8290-10bcf699ba98"},"geometry":{"type":"Point","coordinates":[24.64678,42.89562]}},{"type":"Feature","properties":{"osm_id":273815155,"n_properties":1,"place_type":"village","display_name":"Малък извор, Ябланица, Ловеч, 5741, Бългaрия","uuid":"cbf6608a-cae0-465e-8897-9fc881291123"},"geometry":{"type":"Point","coordinates":[24.12557,42.98514]}},{"type":"Feature","properties":{"osm_id":273873388,"n_properties":3,"place_type":"village","display_name":"Граница, Кюстендил, Бългaрия","uuid":"5737fdb1-461f-4e63-a114-f9c8517d8b32"},"geometry":{"type":"Point","coordinates":[22.7430832,42.2548792]}},{"type":"Feature","properties":{"osm_id":273816578,"n_properties":3,"place_type":"village","display_name":"Берсин, Кюстендил, Бългaрия","uuid":"83878c0c-6879-4fab-8d5a-22a13e2ab94e"},"geometry":{"type":"Point","coordinates":[22.77687,42.24404]}},{"type":"Feature","properties":{"osm_id":273815428,"n_properties":1,"place_type":"village","display_name":"Слатино, Бобошево, Кюстендил, 2641, Бългaрия","uuid":"34ba4785-4cb0-4a8e-b5ae-180febd8cc8e"},"geometry":{"type":"Point","coordinates":[23.05556,42.16074]}},{"type":"Feature","properties":{"osm_id":273877519,"n_properties":4,"place_type":"village","display_name":"Раждавица, Кюстендил, Бългaрия","uuid":"2f3370ea-58e6-4b6f-8395-4ec2c705c344"},"geometry":{"type":"Point","coordinates":[22.7085792,42.387736]}},{"type":"Feature","properties":{"osm_id":273878994,"n_properties":2,"place_type":"village","display_name":"Дяково, Кюстендил, Бългaрия","uuid":"7c03af78-d0da-4428-bb81-ee7856feed97"},"geometry":{"type":"Point","coordinates":[23.0829,42.33506]}},{"type":"Feature","properties":{"osm_id":273876941,"n_properties":2,"place_type":"village","display_name":"Коркина, Бобов дол, Кюстендил, Бългaрия","uuid":"012fd294-5797-4bc0-85f7-bf539b29db0c"},"geometry":{"type":"Point","coordinates":[22.9582266,42.316491]}},{"type":"Feature","properties":{"osm_id":273880661,"n_properties":1,"place_type":"village","display_name":"Кременик, Кюстендил, Бългaрия","uuid":"45cc9166-3384-4728-bcc0-952af135d27e"},"geometry":{"type":"Point","coordinates":[23.06522,42.3654]}},{"type":"Feature","properties":{"osm_id":273816177,"n_properties":1,"place_type":"village","display_name":"Пороминово, Кюстендил, 2640, Бългaрия","uuid":"83c1d154-116d-4873-9f9b-4d92f1351ffc"},"geometry":{"type":"Point","coordinates":[23.0840373,42.0755828]}},{"type":"Feature","properties":{"osm_id":273880935,"n_properties":1,"place_type":"village","display_name":"Шипочано, Кюстендил, Бългaрия","uuid":"9ab48f02-5f6c-4d60-8154-70ec6410bb81"},"geometry":{"type":"Point","coordinates":[22.7282131,42.3690001]}},{"type":"Feature","properties":{"osm_id":273816237,"n_properties":2,"place_type":"village","display_name":"Долна Гращица, Кюстендил, 2540, Бългaрия","uuid":"1c0c909c-565a-4dcd-b273-1db698183636"},"geometry":{"type":"Point","coordinates":[22.7924734,42.2995122]}},{"type":"Feature","properties":{"osm_id":273872855,"n_properties":2,"place_type":"village","display_name":"Гюешево, Кюстендил, Бългaрия","uuid":"923b3587-be2b-4b6b-a6b5-744a1761e146"},"geometry":{"type":"Point","coordinates":[22.476037,42.2360215]}},{"type":"Feature","properties":{"osm_id":273813067,"n_properties":1,"place_type":"village","display_name":"Самораново, Кюстендил, 2604, Бългaрия","uuid":"576aafc2-d0e2-4692-887d-499f4259cc65"},"geometry":{"type":"Point","coordinates":[23.16603,42.26305]}},{"type":"Feature","properties":{"osm_id":273812575,"n_properties":1,"place_type":"village","display_name":"Бабинска река, Бобов дол, Кюстендил, Бългaрия","uuid":"55fa3c19-0b6f-42a3-b288-dbe482aa8df3"},"geometry":{"type":"Point","coordinates":[22.99544,42.33086]}},{"type":"Feature","properties":{"osm_id":273873883,"n_properties":1,"place_type":"village","display_name":"Бураново, Кюстендил, 2640, Бългaрия","uuid":"9407fe93-f60d-4624-b1f3-723c77770d1b"},"geometry":{"type":"Point","coordinates":[23.01689,42.09276]}},{"type":"Feature","properties":{"osm_id":273817080,"n_properties":2,"place_type":"village","display_name":"Голема Фуча, Бобов дол, Кюстендил, Бългaрия","uuid":"c7af01c0-c740-4054-9a8d-9aef04a4bd7c"},"geometry":{"type":"Point","coordinates":[22.9468652,42.3742037]}},{"type":"Feature","properties":{"osm_id":273488996,"n_properties":2,"place_type":"town","display_name":"Бобов дол, Кюстендил, Бългaрия","uuid":"990f18cb-2e84-433e-a142-d5698b6707ec"},"geometry":{"type":"Point","coordinates":[23.0073636,42.3662276]}},{"type":"Feature","properties":{"osm_id":273876888,"n_properties":2,"place_type":"village","display_name":"Слокощица, Кюстендил, 2501, Бългaрия","uuid":"e736c8b5-f0cb-4f97-a5cb-7e411e64f501"},"geometry":{"type":"Point","coordinates":[22.7065411,42.2664322]}},{"type":"Feature","properties":{"osm_id":273817029,"n_properties":3,"place_type":"village","display_name":"Делян, Кюстендил, Бългaрия","uuid":"f4488cb0-4be3-4f4e-b657-c1969cb44ccf"},"geometry":{"type":"Point","coordinates":[23.1022445,42.3827822]}},{"type":"Feature","properties":{"osm_id":273881087,"n_properties":1,"place_type":"village","display_name":"Горна Гращица, Кюстендил, 2540, Бългaрия","uuid":"75f90eb2-2374-48ed-aa8a-faf862d84677"},"geometry":{"type":"Point","coordinates":[22.8090762,42.3133461]}},{"type":"Feature","properties":{"osm_id":273812548,"n_properties":1,"place_type":"village","display_name":"Багренци, Кюстендил, Бългaрия","uuid":"7c5bdc6a-026f-4466-8017-5cc98d6a85cf"},"geometry":{"type":"Point","coordinates":[22.7603406,42.2792893]}},{"type":"Feature","properties":{"osm_id":273815154,"n_properties":1,"place_type":"village","display_name":"Катрище, Кюстендил, Бългaрия","uuid":"06f3ea66-406d-4622-b239-d02c07f3485b"},"geometry":{"type":"Point","coordinates":[22.83227,42.2894]}},{"type":"Feature","properties":{"osm_id":273876854,"n_properties":1,"place_type":"village","display_name":"Мали Върбовник, Бобов дол, Кюстендил, Бългaрия","uuid":"c6969305-b5b1-4e16-9daa-9ba210d2d490"},"geometry":{"type":"Point","coordinates":[22.9908899,42.24649]}},{"type":"Feature","properties":{"osm_id":273880566,"n_properties":1,"place_type":"village","display_name":"Гърляно, Кюстендил, Бългaрия","uuid":"c2d8c4ce-f6d1-4ae8-b10b-036e9721e515"},"geometry":{"type":"Point","coordinates":[22.5494921,42.2559276]}},{"type":"Feature","properties":{"osm_id":273877270,"n_properties":2,"place_type":"village","display_name":"Драговищица, Кюстендил, Бългaрия","uuid":"a3055213-2bdc-4272-9d36-dd17edff9ee9"},"geometry":{"type":"Point","coordinates":[22.6478059,42.3710386]}},{"type":"Feature","properties":{"osm_id":273878930,"n_properties":3,"place_type":"village","display_name":"Долистово, Бобов дол, Кюстендил, Бългaрия","uuid":"32351ef6-e751-4c91-b211-561a3f7a411b"},"geometry":{"type":"Point","coordinates":[23.01076,42.30348]}},{"type":"Feature","properties":{"osm_id":273881455,"n_properties":1,"place_type":"village","display_name":"Бараково, Кюстендил, 2710, Бългaрия","uuid":"c6d27316-7623-4699-b80d-c3606c8878b4"},"geometry":{"type":"Point","coordinates":[23.0605649,42.063201]}},{"type":"Feature","properties":{"osm_id":273879202,"n_properties":1,"place_type":"village","display_name":"Пастух, Невестино, Кюстендил, Бългaрия","uuid":"92a98e93-c98a-486e-bc3a-c066d59b7611"},"geometry":{"type":"Point","coordinates":[22.9020059,42.2047963]}},{"type":"Feature","properties":{"osm_id":273873981,"n_properties":1,"place_type":"village","display_name":"Вратца, Кюстендил, Бългaрия","uuid":"a415cf2c-2772-4758-ba52-6862895fc351"},"geometry":{"type":"Point","coordinates":[22.58929,42.26434]}},{"type":"Feature","properties":{"osm_id":273874053,"n_properties":2,"place_type":"village","display_name":"Еремия, Невестино, Кюстендил, Бългaрия","uuid":"359b7a20-f1e5-46c9-9eb6-b61be213c344"},"geometry":{"type":"Point","coordinates":[22.8406129,42.2065161]}},{"type":"Feature","properties":{"osm_id":460894471,"n_properties":2,"place_type":"village","display_name":"Стенско, Кюстендил, Бългaрия","uuid":"d363ed62-1ff9-401f-89c7-139827aab6a2"},"geometry":{"type":"Point","coordinates":[22.6826371,42.3713542]}},{"type":"Feature","properties":{"osm_id":273488955,"n_properties":2,"place_type":"village","display_name":"Трекляно, Кюстендил, Бългaрия","uuid":"4bfdf01f-2872-4cdd-abf0-50e1623be020"},"geometry":{"type":"Point","coordinates":[22.5986921,42.55074]}},{"type":"Feature","properties":{"osm_id":273874434,"n_properties":1,"place_type":"village","display_name":"Богослов, Кюстендил, 2500, Бългaрия","uuid":"7caebd4a-0f36-4a79-b89a-a71e3a1dc2d6"},"geometry":{"type":"Point","coordinates":[22.67151,42.25142]}},{"type":"Feature","properties":{"osm_id":273817163,"n_properties":1,"place_type":"village","display_name":"Друмохар, Невестино, Кюстендил, Бългaрия","uuid":"31de69a9-a4f0-4896-9caa-0b6f6bcda00a"},"geometry":{"type":"Point","coordinates":[22.869868,42.2042446]}},{"type":"Feature","properties":{"osm_id":273880889,"n_properties":1,"place_type":"village","display_name":"Жиленци, Кюстендил, Бългaрия","uuid":"7db09f3f-f905-4d85-ae08-086e1ce73a43"},"geometry":{"type":"Point","coordinates":[22.64143,42.26687]}},{"type":"Feature","properties":{"osm_id":273815267,"n_properties":1,"place_type":"village","display_name":"Стоб, Кюстендил, 2630, Бългaрия","uuid":"9e292138-93ba-4801-9a01-28b5540c0de3"},"geometry":{"type":"Point","coordinates":[23.1066421,42.0950573]}},{"type":"Feature","properties":{"osm_id":273488863,"n_properties":1,"place_type":"town","display_name":"Сапарева баня, Кюстендил, 2650, Бългaрия","uuid":"2bc98102-fcfc-4e1f-8cf3-41ddc912b70d"},"geometry":{"type":"Point","coordinates":[23.2634537,42.2889464]}},{"type":"Feature","properties":{"osm_id":273874585,"n_properties":1,"place_type":"village","display_name":"Мърводол, Невестино, Кюстендил, Бългaрия","uuid":"621695b2-4c67-410a-91cd-d1612a021fa2"},"geometry":{"type":"Point","coordinates":[22.9104967,42.2308076]}},{"type":"Feature","properties":{"osm_id":273488733,"n_properties":1,"place_type":"town","display_name":"Бобошево, Кюстендил, Бългaрия","uuid":"9e609671-9d0e-4cd1-b7ac-a6589cadd836"},"geometry":{"type":"Point","coordinates":[23.0000878,42.1527179]}},{"type":"Feature","properties":{"osm_id":273873472,"n_properties":1,"place_type":"village","display_name":"Горановци, Кюстендил, Бългaрия","uuid":"3f4a6a62-37b3-44d9-8c43-6cfd090387af"},"geometry":{"type":"Point","coordinates":[22.62714,42.38596]}},{"type":"Feature","properties":{"osm_id":273488822,"n_properties":1,"place_type":"village","display_name":"Невестино, Кюстендил, Бългaрия","uuid":"b627de16-8f3c-4b5b-95da-5449b868e244"},"geometry":{"type":"Point","coordinates":[22.8497099,42.2545767]}},{"type":"Feature","properties":{"osm_id":273876601,"n_properties":1,"place_type":"village","display_name":"Мала Фуча, Бобов дол, Кюстендил, Бългaрия","uuid":"daff4da1-7acc-4f8a-b7fe-d4ef928d6014"},"geometry":{"type":"Point","coordinates":[22.94849,42.35686]}},{"type":"Feature","properties":{"osm_id":273881628,"n_properties":1,"place_type":"village","display_name":"Яхиново, Кюстендил, 2604, Бългaрия","uuid":"32079968-6022-4c04-9d75-90faf510fcb8"},"geometry":{"type":"Point","coordinates":[23.1386288,42.291128]}},{"type":"Feature","properties":{"osm_id":273878676,"n_properties":1,"place_type":"village","display_name":"Горна Брестница, Кюстендил, Бългaрия","uuid":"93a253a8-a823-4b49-a044-b9659d790bd1"},"geometry":{"type":"Point","coordinates":[22.61293,42.28279]}},{"type":"Feature","properties":{"osm_id":273877667,"n_properties":1,"place_type":"village","display_name":"Мало село, Бобов дол, Кюстендил, Бългaрия","uuid":"3e909ff9-6993-4413-9feb-bedf8b5e750b"},"geometry":{"type":"Point","coordinates":[23.04256,42.31137]}},{"type":"Feature","properties":{"osm_id":273878871,"n_properties":1,"place_type":"village","display_name":"Баланово, Кюстендил, Бългaрия","uuid":"d5bf55f4-d8b9-4b55-949b-8105d765c729"},"geometry":{"type":"Point","coordinates":[23.05874,42.25086]}},{"type":"Feature","properties":{"osm_id":273876790,"n_properties":1,"place_type":"village","display_name":"Боровец, Кюстендил, 2640, Бългaрия","uuid":"cdc36b01-4287-4973-88f7-e969095f811a"},"geometry":{"type":"Point","coordinates":[23.02161,42.10435]}},{"type":"Feature","properties":{"osm_id":273812056,"n_properties":1,"place_type":"village","display_name":"Мламолово, Бобов дол, Кюстендил, Бългaрия","uuid":"65f5a50e-31d8-43ee-b090-aad176e3de7c"},"geometry":{"type":"Point","coordinates":[23.023921,42.3435821]}},{"type":"Feature","properties":{"osm_id":273875154,"n_properties":1,"place_type":"village","display_name":"Горна Козница, Бобов дол, Кюстендил, Бългaрия","uuid":"1b40ba16-bb89-43a7-8d51-aaa23d5b055b"},"geometry":{"type":"Point","coordinates":[22.90785,42.32416]}},{"type":"Feature","properties":{"osm_id":273814836,"n_properties":5,"place_type":"village","display_name":"Костенковци, Габрово, 5343, Бългaрия","uuid":"37b18ab6-81c6-48ef-b311-5c8fad4ce81e"},"geometry":{"type":"Point","coordinates":[25.39694,42.95317]}},{"type":"Feature","properties":{"osm_id":273881038,"n_properties":14,"place_type":"village","display_name":"Добромирка, Севлиево, Габрово, Бългaрия","uuid":"8889f208-f555-403a-8fdd-853acb6dedba"},"geometry":{"type":"Point","coordinates":[25.25841,43.08024]}},{"type":"Feature","properties":{"osm_id":273488813,"n_properties":29,"place_type":"town","display_name":"Дряново, Габрово, 5370, Бългaрия","uuid":"0c0e5955-2847-4062-930a-1c48d1899a71"},"geometry":{"type":"Point","coordinates":[25.4742054,42.976068]}},{"type":"Feature","properties":{"osm_id":273488829,"n_properties":27,"place_type":"town","display_name":"Севлиево, Габрово, 5400, Бългaрия","uuid":"fab91490-de32-4f50-a56f-5efd67aea10a"},"geometry":{"type":"Point","coordinates":[25.1040867,43.0263036]}},{"type":"Feature","properties":{"osm_id":273874425,"n_properties":3,"place_type":"village","display_name":"Гъбене, Габрово, 5333, Бългaрия","uuid":"b7feae96-13b4-41c5-bac1-2aa5852268a4"},"geometry":{"type":"Point","coordinates":[25.15906,42.90893]}},{"type":"Feature","properties":{"osm_id":273816478,"n_properties":1,"place_type":"village","display_name":"Армените, Габрово, 5347, Бългaрия","uuid":"97fb6585-8b42-43b5-b3da-905814c1d41e"},"geometry":{"type":"Point","coordinates":[25.2258124,42.9282997]}},{"type":"Feature","properties":{"osm_id":273873173,"n_properties":26,"place_type":"village","display_name":"Буря, Севлиево, Габрово, Бългaрия","uuid":"0d22f86e-0c20-4658-b02c-40d69f05d822"},"geometry":{"type":"Point","coordinates":[25.31317,43.02772]}},{"type":"Feature","properties":{"osm_id":273817182,"n_properties":3,"place_type":"village","display_name":"Душевски колиби, Севлиево, Габрово, Бългaрия","uuid":"3e182acc-8322-43ed-b885-6cdf57b6b238"},"geometry":{"type":"Point","coordinates":[25.0074246,42.9159106]}},{"type":"Feature","properties":{"osm_id":273488985,"n_properties":42,"place_type":"town","display_name":"Трявна, Габрово, 5350, Бългaрия","uuid":"a94676e9-693a-4881-90fd-1b477b2bfed8"},"geometry":{"type":"Point","coordinates":[25.4924992,42.8674135]}},{"type":"Feature","properties":{"osm_id":273873521,"n_properties":12,"place_type":"village","display_name":"Кръвеник, Севлиево, Габрово, 5462, Бългaрия","uuid":"d4e1495b-1578-4e28-a226-4f99fcde67bf"},"geometry":{"type":"Point","coordinates":[25.0093028,42.8460274]}},{"type":"Feature","properties":{"osm_id":273874262,"n_properties":4,"place_type":"village","display_name":"Соколово, Дряново, Габрово, 5392, Бългaрия","uuid":"8a30bb31-0531-4d34-8ae9-1a6db9305cba"},"geometry":{"type":"Point","coordinates":[25.53083,43.01974]}},{"type":"Feature","properties":{"osm_id":3956343059,"n_properties":1,"place_type":"village","display_name":"Гайкини, Габрово, 5312, Бългaрия","uuid":"8ad08e3d-e121-488a-8637-a3ca1138f970"},"geometry":{"type":"Point","coordinates":[25.302315,42.9398462]}},{"type":"Feature","properties":{"osm_id":273812291,"n_properties":3,"place_type":"village","display_name":"Бериево, Севлиево, Габрово, Бългaрия","uuid":"3cf069d4-1972-4c12-8b82-1895ba7a58f8"},"geometry":{"type":"Point","coordinates":[24.89307,42.96948]}},{"type":"Feature","properties":{"osm_id":273873392,"n_properties":1,"place_type":"village","display_name":"Тодорчета, Габрово, 5343, Бългaрия","uuid":"c45dc178-2429-4fbe-98ad-ce0768dcaee5"},"geometry":{"type":"Point","coordinates":[25.3945393,42.9251497]}},{"type":"Feature","properties":{"osm_id":273814007,"n_properties":2,"place_type":"village","display_name":"Борското, Габрово, 5333, Бългaрия","uuid":"cb194b55-db32-4f25-8d23-c673a2e45bf2"},"geometry":{"type":"Point","coordinates":[25.1687249,42.8971391]}},{"type":"Feature","properties":{"osm_id":273872868,"n_properties":1,"place_type":"village","display_name":"Керените, Трявна, Габрово, 5350, Бългaрия","uuid":"f56a5ba2-a676-4bfa-a109-022ca9debdcd"},"geometry":{"type":"Point","coordinates":[25.50719,42.8964]}},{"type":"Feature","properties":{"osm_id":273880077,"n_properties":2,"place_type":"village","display_name":"Гергини, Габрово, 5345, Бългaрия","uuid":"4cd152c7-55c8-4a80-83fa-443d3295973a"},"geometry":{"type":"Point","coordinates":[25.2469349,42.8855563]}},{"type":"Feature","properties":{"osm_id":273876464,"n_properties":1,"place_type":"village","display_name":"Кастел, Севлиево, Габрово, 5333, Бългaрия","uuid":"c9ca8422-ffdf-4336-a7be-7071a42c7c98"},"geometry":{"type":"Point","coordinates":[25.1143757,42.9036953]}},{"type":"Feature","properties":{"osm_id":273875665,"n_properties":5,"place_type":"village","display_name":"Живко, Габрово, 5345, Бългaрия","uuid":"09fb84b0-bca8-4c0d-8baf-874979666fa8"},"geometry":{"type":"Point","coordinates":[25.25772,42.94429]}},{"type":"Feature","properties":{"osm_id":273873498,"n_properties":1,"place_type":"village","display_name":"Угорелец, Севлиево, Габрово, 5465, Бългaрия","uuid":"4a447006-e5f1-4a90-8906-0169cfe1c13e"},"geometry":{"type":"Point","coordinates":[25.10953,42.83078]}},{"type":"Feature","properties":{"osm_id":273874688,"n_properties":2,"place_type":"village","display_name":"Ганчовец, Дряново, Габрово, 5370, Бългaрия","uuid":"16236c96-769c-4242-a6f1-0667d7a5a676"},"geometry":{"type":"Point","coordinates":[25.5174,42.98596]}},{"type":"Feature","properties":{"osm_id":273816902,"n_properties":5,"place_type":"village","display_name":"Ловнидол, Севлиево, Габрово, Бългaрия","uuid":"c21d369a-e3ab-41a6-9d2d-b78dc972094f"},"geometry":{"type":"Point","coordinates":[25.24969,42.99733]}},{"type":"Feature","properties":{"osm_id":273875793,"n_properties":3,"place_type":"village","display_name":"Мечковица, Габрово, Бългaрия","uuid":"9632c7cd-397e-4a27-8028-0b207719fe68"},"geometry":{"type":"Point","coordinates":[25.2445,42.84593]}},{"type":"Feature","properties":{"osm_id":273817939,"n_properties":2,"place_type":"village","display_name":"Станчов хан, Трявна, Габрово, Бългaрия","uuid":"e2cef2ed-d1f6-4b7f-babd-3b5d7dd0bdd0"},"geometry":{"type":"Point","coordinates":[25.56049,42.81537]}},{"type":"Feature","properties":{"osm_id":364512417,"n_properties":12,"place_type":"town","display_name":"Плачковци, Трявна, Габрово, 5360, Бългaрия","uuid":"634f32af-0072-48fc-9cd9-617a04a9e023"},"geometry":{"type":"Point","coordinates":[25.4832748,42.8240207]}},{"type":"Feature","properties":{"osm_id":273876745,"n_properties":4,"place_type":"village","display_name":"Лесичарка, Габрово, 5343, Бългaрия","uuid":"a6b86481-a152-4648-933b-3f401c9fbed7"},"geometry":{"type":"Point","coordinates":[25.3879043,42.9422194]}},{"type":"Feature","properties":{"osm_id":273879329,"n_properties":3,"place_type":"village","display_name":"Ряховците, Севлиево, Габрово, 5450, Бългaрия","uuid":"bbed82e0-5096-4a52-9453-c8dc60c26562"},"geometry":{"type":"Point","coordinates":[25.00821,43.02154]}},{"type":"Feature","properties":{"osm_id":273881231,"n_properties":2,"place_type":"village","display_name":"Хирево, Севлиево, Габрово, 5439, Бългaрия","uuid":"0ce22b84-5f3b-49e3-9b29-afbe297d35d1"},"geometry":{"type":"Point","coordinates":[24.98765,42.99454]}},{"type":"Feature","properties":{"osm_id":273873696,"n_properties":1,"place_type":"village","display_name":"Славейково, Дряново, Габрово, Бългaрия","uuid":"e98c6b26-3fa7-467f-b562-7d95eb68e182"},"geometry":{"type":"Point","coordinates":[25.36067,42.99588]}},{"type":"Feature","properties":{"osm_id":3834522469,"n_properties":2,"place_type":"village","display_name":"Раховци, Габрово, 5343, Бългaрия","uuid":"c5f51b14-a7fb-4837-9e19-ca4b948994fd"},"geometry":{"type":"Point","coordinates":[25.3905735,42.9282984]}},{"type":"Feature","properties":{"osm_id":273880492,"n_properties":3,"place_type":"village","display_name":"Крамолин, Севлиево, Габрово, Бългaрия","uuid":"cbbe76a3-0cc2-4966-86b8-e544f758e5db"},"geometry":{"type":"Point","coordinates":[25.07653,43.13809]}},{"type":"Feature","properties":{"osm_id":273874778,"n_properties":1,"place_type":"village","display_name":"Стойчовци, Габрово, 5343, Бългaрия","uuid":"5df2a345-9199-4b91-9b0c-8340a626a719"},"geometry":{"type":"Point","coordinates":[25.4103996,42.9406535]}},{"type":"Feature","properties":{"osm_id":273880201,"n_properties":3,"place_type":"village","display_name":"Драгановци, Габрово, 5347, Бългaрия","uuid":"82efbe4f-2c96-4900-ae2a-41587f68aa56"},"geometry":{"type":"Point","coordinates":[25.18695,42.93141]}},{"type":"Feature","properties":{"osm_id":273880089,"n_properties":1,"place_type":"village","display_name":"Горни Върпища, Дряново, Габрово, 5343, Бългaрия","uuid":"f242c1e7-cacb-4c8b-92fd-380d5f9f7e91"},"geometry":{"type":"Point","coordinates":[25.42586,42.93017]}},{"type":"Feature","properties":{"osm_id":273816735,"n_properties":1,"place_type":"village","display_name":"Рязковци, Габрово, 5312, Бългaрия","uuid":"8aba891a-b6cc-46ae-80da-4878d5139333"},"geometry":{"type":"Point","coordinates":[25.304813,42.9120785]}},{"type":"Feature","properties":{"osm_id":273874670,"n_properties":3,"place_type":"village","display_name":"Трапесковци, Габрово, 5340, Бългaрия","uuid":"e3a223f5-2695-4fec-8f6d-05a8cb4be0ad"},"geometry":{"type":"Point","coordinates":[25.4205534,42.8816897]}},{"type":"Feature","properties":{"osm_id":273876852,"n_properties":1,"place_type":"village","display_name":"Драгиевци, Габрово, 5347, Бългaрия","uuid":"6ce8f311-8cf6-4609-98f8-b33d791dc6b6"},"geometry":{"type":"Point","coordinates":[25.17318,42.92661]}},{"type":"Feature","properties":{"osm_id":273874497,"n_properties":3,"place_type":"village","display_name":"Боазът, Севлиево, Габрово, Бългaрия","uuid":"76bc97bc-6aa2-4bc6-b2dd-8c0cee6ea24a"},"geometry":{"type":"Point","coordinates":[24.96092,42.90627]}},{"type":"Feature","properties":{"osm_id":273877299,"n_properties":2,"place_type":"village","display_name":"Горнова могила, Габрово, 5307, Бългaрия","uuid":"b447a0e7-fdfd-446f-adb9-205ac8173f9b"},"geometry":{"type":"Point","coordinates":[25.26737,42.844]}},{"type":"Feature","properties":{"osm_id":273880190,"n_properties":2,"place_type":"village","display_name":"Скорците, Трявна, Габрово, 5350, Бългaрия","uuid":"cf6cc10d-91ff-4525-84e3-f9d68d22d29a"},"geometry":{"type":"Point","coordinates":[25.45955,42.89691]}},{"type":"Feature","properties":{"osm_id":273814060,"n_properties":3,"place_type":"village","display_name":"Селище, Благоевград, 2744, Бългaрия","uuid":"a17e7a81-bca6-4dc5-8b05-593e93c0d2ee"},"geometry":{"type":"Point","coordinates":[23.0037499,41.998539]}},{"type":"Feature","properties":{"osm_id":273873418,"n_properties":3,"place_type":"village","display_name":"Маневци, Трявна, Габрово, 5350, Бългaрия","uuid":"a8972b9e-833e-4e1b-b015-b51b40972ce0"},"geometry":{"type":"Point","coordinates":[25.53504,42.86275]}},{"type":"Feature","properties":{"osm_id":273880485,"n_properties":4,"place_type":"village","display_name":"Янтра, Дряново, Габрово, Бългaрия","uuid":"c640cc05-8698-4962-b8b8-d062cf4dcc9d"},"geometry":{"type":"Point","coordinates":[25.31875,42.97776]}},{"type":"Feature","properties":{"osm_id":4153185815,"n_properties":3,"place_type":"village","display_name":"Кметовци, Габрово, 5340, Бългaрия","uuid":"2d61e394-11a3-4f38-9aeb-cebeea4852b1"},"geometry":{"type":"Point","coordinates":[25.3965962,42.8982323]}},{"type":"Feature","properties":{"osm_id":273880728,"n_properties":2,"place_type":"village","display_name":"Зая, Дряново, Габрово, 5392, Бългaрия","uuid":"e0fc4b65-deb0-459d-8acc-e0f3bca56360"},"geometry":{"type":"Point","coordinates":[25.51551,42.99884]}},{"type":"Feature","properties":{"osm_id":273879145,"n_properties":1,"place_type":"village","display_name":"Яворец, Габрово, Бългaрия","uuid":"3a6cbe8a-f140-464b-b2a6-23ef537715ac"},"geometry":{"type":"Point","coordinates":[25.1617139,42.9608919]}},{"type":"Feature","properties":{"osm_id":273877283,"n_properties":1,"place_type":"village","display_name":"Малини, Габрово, 5335, Бългaрия","uuid":"9b16b6b9-5945-4a63-adaa-70d2f3dc55af"},"geometry":{"type":"Point","coordinates":[25.37406,42.87803]}},{"type":"Feature","properties":{"osm_id":273873568,"n_properties":1,"place_type":"village","display_name":"Керека, Дряново, Габрово, Бългaрия","uuid":"8bda5d03-2363-40d3-9c1b-0e6802ab3715"},"geometry":{"type":"Point","coordinates":[25.4670755,43.033492]}},{"type":"Feature","properties":{"osm_id":273813937,"n_properties":6,"place_type":"village","display_name":"Млечево, Севлиево, Габрово, Бългaрия","uuid":"6c9972ec-b76d-4363-aea1-0b29876eee34"},"geometry":{"type":"Point","coordinates":[24.91423,42.91425]}},{"type":"Feature","properties":{"osm_id":273815774,"n_properties":4,"place_type":"village","display_name":"Каломен, Дряново, Габрово, Бългaрия","uuid":"294e9be1-0192-4c88-89db-cd4b21bc2ee6"},"geometry":{"type":"Point","coordinates":[25.4244124,43.0304438]}},{"type":"Feature","properties":{"osm_id":273816466,"n_properties":1,"place_type":"village","display_name":"Куманите, Дряново, Габрово, 5380, Бългaрия","uuid":"72e15f7f-f605-4955-9795-29e94def9867"},"geometry":{"type":"Point","coordinates":[25.45431,42.90631]}},{"type":"Feature","properties":{"osm_id":273880599,"n_properties":1,"place_type":"village","display_name":"Големи Българени, Велико Търново, Бългaрия","uuid":"d5afec47-1136-4f36-8a01-df52541c1789"},"geometry":{"type":"Point","coordinates":[25.5728,42.94704]}},{"type":"Feature","properties":{"osm_id":3956367073,"n_properties":1,"place_type":"village","display_name":"Сейковци, Габрово, 5345, Бългaрия","uuid":"9315202b-3381-433f-82e8-a165a2c2f876"},"geometry":{"type":"Point","coordinates":[25.2742596,42.9479135]}},{"type":"Feature","properties":{"osm_id":273879372,"n_properties":1,"place_type":"village","display_name":"Новаковци, Габрово, 5347, Бългaрия","uuid":"f6539cf8-ab16-476c-91d4-5a037d7ed6aa"},"geometry":{"type":"Point","coordinates":[25.19897,42.91918]}},{"type":"Feature","properties":{"osm_id":273817262,"n_properties":2,"place_type":"village","display_name":"Драганчетата, Габрово, 5335, Бългaрия","uuid":"8fc6daa1-2e8e-42f8-b1d6-c3593c359b80"},"geometry":{"type":"Point","coordinates":[25.4088349,42.8500228]}},{"type":"Feature","properties":{"osm_id":9468679441,"n_properties":4,"place_type":"village","display_name":"Карали, Габрово, 5343, Бългaрия","uuid":"8bf8d0fd-3355-457e-bae5-b5519d705fae"},"geometry":{"type":"Point","coordinates":[25.3916099,42.9492154]}},{"type":"Feature","properties":{"osm_id":273814400,"n_properties":3,"place_type":"village","display_name":"Смиловци, Габрово, 5347, Бългaрия","uuid":"c737aa6f-f7b7-42d1-8705-919483b5d45d"},"geometry":{"type":"Point","coordinates":[25.17444,42.9046921]}},{"type":"Feature","properties":{"osm_id":3956336693,"n_properties":1,"place_type":"village","display_name":"Свинарски дол, Габрово, 5345, Бългaрия","uuid":"5f22735a-1645-4269-8f44-be5b2d9f777e"},"geometry":{"type":"Point","coordinates":[25.2868059,42.9272529]}},{"type":"Feature","properties":{"osm_id":273877385,"n_properties":3,"place_type":"village","display_name":"Агатово, Севлиево, Габрово, Бългaрия","uuid":"7207de37-0702-4b8b-a9b5-e92daff2abaf"},"geometry":{"type":"Point","coordinates":[25.0000076,43.1383037]}},{"type":"Feature","properties":{"osm_id":273880803,"n_properties":3,"place_type":"village","display_name":"Косарка, Дряново, Габрово, 5392, Бългaрия","uuid":"aafabb58-df47-4a34-907a-1abbab346afd"},"geometry":{"type":"Point","coordinates":[25.54911,43.01227]}},{"type":"Feature","properties":{"osm_id":273879492,"n_properties":1,"place_type":"village","display_name":"Белица, Трявна, Габрово, Бългaрия","uuid":"53088a30-ee4c-4cfb-a4a8-25658d88c56a"},"geometry":{"type":"Point","coordinates":[25.5773527,42.8516094]}},{"type":"Feature","properties":{"osm_id":273873329,"n_properties":1,"place_type":"village","display_name":"Зелено дърво, Габрово, Бългaрия","uuid":"79a7703c-30aa-4546-9f22-99bee5dc09c7"},"geometry":{"type":"Point","coordinates":[25.26836,42.79512]}},{"type":"Feature","properties":{"osm_id":9472159605,"n_properties":2,"place_type":"village","display_name":"Баевци, Габрово, 5304, Бългaрия","uuid":"4e4c8b6f-733d-433e-a99b-a1a22ba44f03"},"geometry":{"type":"Point","coordinates":[25.2838259,42.8124549]}},{"type":"Feature","properties":{"osm_id":273880895,"n_properties":3,"place_type":"village","display_name":"Горна Росица, Севлиево, Габрово, 5333, Бългaрия","uuid":"0aaa8153-fac5-4104-904c-6f0e5fa99a8a"},"geometry":{"type":"Point","coordinates":[25.12438,42.94635]}},{"type":"Feature","properties":{"osm_id":273875121,"n_properties":1,"place_type":"village","display_name":"Карамичевци, Севлиево, Габрово, 5471, Бългaрия","uuid":"685e54ad-567f-43d6-baa4-07c8fba9a48d"},"geometry":{"type":"Point","coordinates":[25.0655459,42.8882001]}},{"type":"Feature","properties":{"osm_id":273874414,"n_properties":3,"place_type":"village","display_name":"Борики, Габрово, 5335, Бългaрия","uuid":"32c93821-130c-4bdc-a1a9-9b73da14c7f3"},"geometry":{"type":"Point","coordinates":[25.36359,42.87356]}},{"type":"Feature","properties":{"osm_id":273814874,"n_properties":1,"place_type":"village","display_name":"Златевци, Габрово, 5345, Бългaрия","uuid":"a8ddb925-fcb8-4e0c-a437-72289114d3c4"},"geometry":{"type":"Point","coordinates":[25.24669,42.9197]}},{"type":"Feature","properties":{"osm_id":273873771,"n_properties":1,"place_type":"village","display_name":"Харачерите, Габрово, 5343, Бългaрия","uuid":"895165f6-6827-487d-b01e-983c6e0db2ab"},"geometry":{"type":"Point","coordinates":[25.40097,42.91524]}},{"type":"Feature","properties":{"osm_id":273880991,"n_properties":1,"place_type":"village","display_name":"Кози рог, Габрово, 5345, Бългaрия","uuid":"0d77744d-a046-4385-9e51-a10430f29a45"},"geometry":{"type":"Point","coordinates":[25.2688116,42.9548378]}},{"type":"Feature","properties":{"osm_id":273879233,"n_properties":1,"place_type":"village","display_name":"Съботковци, Габрово, 5340, Бългaрия","uuid":"6e4f56af-a0ac-403a-8a96-fd0c5d98b41a"},"geometry":{"type":"Point","coordinates":[25.41179,42.90597]}},{"type":"Feature","properties":{"osm_id":273872813,"n_properties":1,"place_type":"village","display_name":"Малки Вършец, Севлиево, Габрово, Бългaрия","uuid":"394903b9-b278-44b1-a8ca-14d1a9425ea8"},"geometry":{"type":"Point","coordinates":[24.97491,43.09209]}},{"type":"Feature","properties":{"osm_id":273815649,"n_properties":1,"place_type":"village","display_name":"Междени, Габрово, Бългaрия","uuid":"297b896f-27fd-4328-9bcf-5cfaf364d9ca"},"geometry":{"type":"Point","coordinates":[25.3414531,42.9548029]}},{"type":"Feature","properties":{"osm_id":273873233,"n_properties":1,"place_type":"village","display_name":"Дебел дял, Габрово, Бългaрия","uuid":"b6dc2520-0690-4850-968d-7c52245e845a"},"geometry":{"type":"Point","coordinates":[25.17373,42.87288]}},{"type":"Feature","properties":{"osm_id":273874108,"n_properties":1,"place_type":"village","display_name":"Дамяново, Севлиево, Габрово, Бългaрия","uuid":"7ad819ae-d352-43eb-908d-d27fc2d2e000"},"geometry":{"type":"Point","coordinates":[24.92916,43.00094]}},{"type":"Feature","properties":{"osm_id":273880167,"n_properties":1,"place_type":"village","display_name":"Радевци, Трявна, Габрово, 5360, Бългaрия","uuid":"63958b26-63d2-433f-b1d1-68c72ed6d7e4"},"geometry":{"type":"Point","coordinates":[25.4998,42.80112]}},{"type":"Feature","properties":{"osm_id":273879154,"n_properties":1,"place_type":"village","display_name":"Катранджии, Дряново, Габрово, 5392, Бългaрия","uuid":"5b17a3fe-3ec9-4db9-a247-713e4b17e5bf"},"geometry":{"type":"Point","coordinates":[25.51547,43.01428]}},{"type":"Feature","properties":{"osm_id":273815379,"n_properties":1,"place_type":"village","display_name":"Градница, Севлиево, Габрово, 5439, Бългaрия","uuid":"4c489f15-0478-4a26-850c-a10a6a15d3a5"},"geometry":{"type":"Point","coordinates":[24.95693,42.95751]}},{"type":"Feature","properties":{"osm_id":9439694746,"n_properties":1,"place_type":"village","display_name":"Донино, Габрово, 5342, Бългaрия","uuid":"d1a44e1e-f96e-40f0-ae20-c5f6ba3c6db7"},"geometry":{"type":"Point","coordinates":[25.3734567,42.9114867]}},{"type":"Feature","properties":{"osm_id":3826497268,"n_properties":2,"place_type":"village","display_name":"Чавеи, Габрово, 5345, Бългaрия","uuid":"6648ab78-bfb8-4679-a76a-49e774850ea1"},"geometry":{"type":"Point","coordinates":[25.252825,42.9120265]}},{"type":"Feature","properties":{"osm_id":9452281527,"n_properties":1,"place_type":"village","display_name":"Спасовци, Габрово, 5340, Бългaрия","uuid":"cc309771-95a7-41c2-9c23-7c7bba58e0fe"},"geometry":{"type":"Point","coordinates":[25.3849728,42.8897281]}},{"type":"Feature","properties":{"osm_id":9516621777,"n_properties":1,"place_type":"village","display_name":"Кашенци, Трявна, Габрово, 5360, Бългaрия","uuid":"d644251c-bc6c-47c5-b5e6-b45cfdf68e8f"},"geometry":{"type":"Point","coordinates":[25.4377267,42.8497274]}},{"type":"Feature","properties":{"osm_id":273872717,"n_properties":1,"place_type":"village","display_name":"Търхово, Севлиево, Габрово, Бългaрия","uuid":"630eeb7d-bd7b-41ac-b967-46e6bc6b906c"},"geometry":{"type":"Point","coordinates":[25.24081,42.98077]}},{"type":"Feature","properties":{"osm_id":273877421,"n_properties":2,"place_type":"village","display_name":"Янковци, Габрово, 5345, Бългaрия","uuid":"ddbd6f42-4140-40bd-bbb1-0fcb50db5471"},"geometry":{"type":"Point","coordinates":[25.2384545,42.9065979]}},{"type":"Feature","properties":{"osm_id":273881097,"n_properties":1,"place_type":"village","display_name":"Камещица, Габрово, 5333, Бългaрия","uuid":"0a2a5130-9fb8-4403-bed1-a67cc1ff4ef2"},"geometry":{"type":"Point","coordinates":[25.1348315,42.9071461]}},{"type":"Feature","properties":{"osm_id":8658858101,"n_properties":1,"place_type":"village","display_name":"Гарван, Габрово, 5347, Бългaрия","uuid":"1ba7bcd3-578f-4ef5-a481-3534836886ec"},"geometry":{"type":"Point","coordinates":[25.2390776,42.8838947]}},{"type":"Feature","properties":{"osm_id":273878904,"n_properties":1,"place_type":"village","display_name":"Иглика, Габрово, 5343, Бългaрия","uuid":"a31ac938-f5cb-4cf4-82bb-2cd9fe9ffb69"},"geometry":{"type":"Point","coordinates":[25.38428,42.96021]}},{"type":"Feature","properties":{"osm_id":273876534,"n_properties":1,"place_type":"village","display_name":"Велковци, Габрово, 5343, Бългaрия","uuid":"771ca98e-651a-40b5-97d2-d75d4fa26cc4"},"geometry":{"type":"Point","coordinates":[25.371856,42.9410658]}},{"type":"Feature","properties":{"osm_id":273880847,"n_properties":1,"place_type":"village","display_name":"Здравковец, Габрово, Бългaрия","uuid":"af6b7987-77ae-4a0a-b93f-40f1c99a7a4b"},"geometry":{"type":"Point","coordinates":[25.24008,42.96158]}},{"type":"Feature","properties":{"osm_id":273815860,"n_properties":33,"place_type":"village","display_name":"Гостилица, Дряново, Габрово, Бългaрия","uuid":"f9bc0157-ced9-40ed-8372-3476ae29ddd5"},"geometry":{"type":"Point","coordinates":[25.3682888,43.0237489]}},{"type":"Feature","properties":{"osm_id":273874675,"n_properties":2,"place_type":"village","display_name":"Враниловци, Габрово, 5347, Бългaрия","uuid":"0a55a3df-b5e4-491c-89f9-12dab0f8af56"},"geometry":{"type":"Point","coordinates":[25.2193375,42.9132311]}},{"type":"Feature","properties":{"osm_id":273813060,"n_properties":6,"place_type":"village","display_name":"Царева ливада, Дряново, Габрово, 5380, Бългaрия","uuid":"ea422661-c231-43b3-a49d-468e034b85db"},"geometry":{"type":"Point","coordinates":[25.45861,42.93717]}},{"type":"Feature","properties":{"osm_id":273879983,"n_properties":2,"place_type":"village","display_name":"Гоздейка, Дряново, Габрово, 5392, Бългaрия","uuid":"8c4c155f-07dc-4a22-a12c-45f055c49433"},"geometry":{"type":"Point","coordinates":[25.50062,43.02274]}},{"type":"Feature","properties":{"osm_id":273875900,"n_properties":4,"place_type":"village","display_name":"Скалско, Дряново, Габрово, 5343, Бългaрия","uuid":"65483ea2-9c2c-419a-9aa5-fffbb3d72757"},"geometry":{"type":"Point","coordinates":[25.3770537,42.9740597]}},{"type":"Feature","properties":{"osm_id":273878708,"n_properties":1,"place_type":"village","display_name":"Идилево, Севлиево, Габрово, Бългaрия","uuid":"6ccf9c4e-5ffd-4a35-a923-dac0cdb82c30"},"geometry":{"type":"Point","coordinates":[25.2510452,43.0391087]}},{"type":"Feature","properties":{"osm_id":273872728,"n_properties":1,"place_type":"village","display_name":"Караиванца, Дряново, Габрово, Бългaрия","uuid":"44ffa563-2706-4213-9b31-59ea9ccdcbe8"},"geometry":{"type":"Point","coordinates":[25.405405,42.9840494]}},{"type":"Feature","properties":{"osm_id":273875616,"n_properties":3,"place_type":"village","display_name":"Петко Славейков, Севлиево, Габрово, Бългaрия","uuid":"31765df8-484c-4234-b199-b2fbd98a7369"},"geometry":{"type":"Point","coordinates":[24.9711361,43.0558737]}},{"type":"Feature","properties":{"osm_id":273813821,"n_properties":2,"place_type":"village","display_name":"Сенник, Севлиево, Габрово, 5450, Бългaрия","uuid":"b6324489-18a6-4661-bb1c-94dfa40ed339"},"geometry":{"type":"Point","coordinates":[25.03726,42.98858]}},{"type":"Feature","properties":{"osm_id":9520953555,"n_properties":1,"place_type":"village","display_name":"Пъртевци, Габрово, Бългaрия","uuid":"0f78aa28-c321-42e2-ae32-18d91ab0d21a"},"geometry":{"type":"Point","coordinates":[25.243613,42.8488647]}},{"type":"Feature","properties":{"osm_id":273874594,"n_properties":7,"place_type":"village","display_name":"Стоките, Севлиево, Габрово, 5462, Бългaрия","uuid":"615630ec-7d5a-4bc2-8c99-8cd11d494ef7"},"geometry":{"type":"Point","coordinates":[25.074,42.86305]}},{"type":"Feature","properties":{"osm_id":7630361486,"n_properties":1,"place_type":"village","display_name":"Тодореците, Трявна, Габрово, 5350, Бългaрия","uuid":"d7d803a2-1054-45d1-b4f2-25815b0a3618"},"geometry":{"type":"Point","coordinates":[25.4802886,42.9032696]}},{"type":"Feature","properties":{"osm_id":273880469,"n_properties":3,"place_type":"village","display_name":"Енчовци, Трявна, Габрово, 5360, Бългaрия","uuid":"00734ff5-8691-4bc9-8a56-006fa4ac1553"},"geometry":{"type":"Point","coordinates":[25.4374239,42.8220954]}},{"type":"Feature","properties":{"osm_id":4229709569,"n_properties":6,"place_type":"village","display_name":"Градище, Севлиево, Габрово, 5300, Бългaрия","uuid":"db8f6824-2d05-4527-8ab6-c84452b0adca"},"geometry":{"type":"Point","coordinates":[25.013982,43.0946659]}},{"type":"Feature","properties":{"osm_id":273881310,"n_properties":1,"place_type":"village","display_name":"Денчевци, Дряново, Габрово, Бългaрия","uuid":"c76e8d08-01c8-46ae-a5ac-52c040c41206"},"geometry":{"type":"Point","coordinates":[25.4385606,43.0058435]}},{"type":"Feature","properties":{"osm_id":273814808,"n_properties":2,"place_type":"village","display_name":"Радовци, Дряново, Габрово, 5380, Бългaрия","uuid":"846f3c2b-142c-4ad4-a7fb-7ffa8c070d60"},"geometry":{"type":"Point","coordinates":[25.50967,42.91918]}},{"type":"Feature","properties":{"osm_id":273876938,"n_properties":1,"place_type":"village","display_name":"Иванили, Габрово, Бългaрия","uuid":"db7570af-46c9-4fb5-a5d2-9ad03e8ee4cd"},"geometry":{"type":"Point","coordinates":[25.3056461,42.9484297]}},{"type":"Feature","properties":{"osm_id":273812280,"n_properties":3,"place_type":"village","display_name":"Шумата, Севлиево, Габрово, 5471, Бългaрия","uuid":"a426a45b-150e-43fc-802b-d622523b4c2a"},"geometry":{"type":"Point","coordinates":[25.07554,42.92039]}},{"type":"Feature","properties":{"osm_id":3898565307,"n_properties":1,"place_type":"village","display_name":"Гръблевци, Габрово, 5312, Бългaрия","uuid":"30ec8d3d-9224-4e33-aa15-1d0aa6ae14ea"},"geometry":{"type":"Point","coordinates":[25.313226,42.9357191]}},{"type":"Feature","properties":{"osm_id":273879672,"n_properties":2,"place_type":"village","display_name":"Думници, Габрово, 5312, Бългaрия","uuid":"8e98226b-5e8d-44bd-9a67-b522338ea9f7"},"geometry":{"type":"Point","coordinates":[25.2913022,42.9067464]}},{"type":"Feature","properties":{"osm_id":273817276,"n_properties":1,"place_type":"village","display_name":"Младен, Севлиево, Габрово, Бългaрия","uuid":"f246364c-47ba-4b8d-ab2a-5f888e08e5e7"},"geometry":{"type":"Point","coordinates":[25.18858,43.08947]}},{"type":"Feature","properties":{"osm_id":273881137,"n_properties":1,"place_type":"village","display_name":"Столът, Севлиево, Габрово, 5439, Бългaрия","uuid":"31134646-aeb4-4211-a85b-9d1f68c5428d"},"geometry":{"type":"Point","coordinates":[24.9788024,42.9321062]}},{"type":"Feature","properties":{"osm_id":8593127971,"n_properties":1,"place_type":"village","display_name":"Трънито, Габрово, 5307, Бългaрия","uuid":"e318b623-3973-438e-9cb1-a65651778244"},"geometry":{"type":"Point","coordinates":[25.2352524,42.8677159]}},{"type":"Feature","properties":{"osm_id":273876503,"n_properties":1,"place_type":"village","display_name":"Ралевци, Трявна, Габрово, Бългaрия","uuid":"b0358b57-4559-4b10-85f8-5c775d755841"},"geometry":{"type":"Point","coordinates":[25.5658434,42.8283445]}}]
+}

@@ -11,4 +11,9 @@ body {
 .navigation{
     display: inline-block;
     width: 100%;
+    padding: 10px;
+}
+
+.navigation > * {
+    margin: 10px;
 }
