@@ -1,39 +1,39 @@
 const scl = 16;
 let food;
-let s;
+let snake;
 
 function setup() {
     frameRate(8);
     createCanvas(400, 400);
-    s = new Snake();
+    snake = new Snake();
     pickLocation();
 }
 
 function draw() {
     background(105, 105, 105);
-    s.death();
-    s.update();
-    s.show();
+    snake.death();
+    snake.update();
+    snake.show();
     fill(255, 145, 90);
     rect(food.x, food.y, scl, scl);
-    if (s.eat(food)) {
+    if (snake.eat(food)) {
         pickLocation();
     }
 }
 
 function keyPressed() {
     if (Event.keyCode === KeyboardEvent.UP_ARROW || Event.keyCode === 87) {
-        s.dir(0, -1);
+        snake.dir(0, -1);
     } else if (Event.keyCode === KeyboardEvent.DOWN_ARROW || Event.keyCode === 83) {
-        s.dir(0, 1);
+        snake.dir(0, 1);
     } else if (Event.keyCode === KeyboardEvent.RIGHT_ARROW || Event.keyCode === 68) {
-        s.dir(1, 0);
+        snake.dir(1, 0);
     } else if (Event.keyCode === KeyboardEvent.LEFT_ARROW || Event.keyCode === 65) {
-        s.dir(-1, 0);
+        snake.dir(-1, 0);
     }
     if (Event.mouseIsPressed) {
         if (Event.mouseButton === KeyboardEvent.LEFT) {
-            s.total++;
+            snake.total++;
         }
     }
 }
