@@ -1,6 +1,6 @@
 const scl = 16;
-let food;
 let snake;
+let food;
 
 function setup() {
     frameRate(8);
@@ -22,17 +22,17 @@ function draw() {
 }
 
 function keyPressed() {
-    if (Event.keyCode === KeyboardEvent.UP_ARROW || Event.keyCode === 87) {
+    if (p5.prototype.keyCode === p5.Constants.UP_ARROW || p5.prototype.keyCode === 87) {
         snake.dir(0, -1);
-    } else if (Event.keyCode === KeyboardEvent.DOWN_ARROW || Event.keyCode === 83) {
+    } else if (p5.prototype.keyCode === p5.Constants.DOWN_ARROW || p5.prototype.keyCode === 83) {
         snake.dir(0, 1);
-    } else if (Event.keyCode === KeyboardEvent.RIGHT_ARROW || Event.keyCode === 68) {
+    } else if (p5.prototype.keyCode === p5.Constants.RIGHT_ARROW || p5.prototype.keyCode === 68) {
         snake.dir(1, 0);
-    } else if (Event.keyCode === KeyboardEvent.LEFT_ARROW || Event.keyCode === 65) {
+    } else if (p5.prototype.keyCode === p5.Constants.LEFT_ARROW || p5.prototype.keyCode === 65) {
         snake.dir(-1, 0);
     }
-    if (Event.mouseIsPressed) {
-        if (Event.mouseButton === KeyboardEvent.LEFT) {
+    if (p5.prototype.mouseIsPressed) {
+        if (p5.prototype.mouseButton === p5.Constants.LEFT) {
             snake.total++;
         }
     }
@@ -111,6 +111,8 @@ function Snake() {
 function pickLocation() {
     const cols = Math.floor(width / scl);
     const rows = Math.floor(height / scl);
-    food = p5.prototype.createVector(Math.floor(random(cols)), Math.floor(random(rows)));
+    const x = Math.floor(random(cols));
+    const y = Math.floor(random(rows));
+    food = p5.prototype.createVector(x, y);
     food.mult(scl);
 }
