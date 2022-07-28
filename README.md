@@ -1,16 +1,18 @@
 # please, call me Nik
-My projects
+## projects
 
-Latest:
+### Latest:
+- Quarkus APIs with OpenAPI, MinIO, Cassandra, Helm, Terraform, K8S
+- RnD and PoC for traffic engineering software and IoT 
+### Last:
 - Integrating sports API and widgets into a large scale system.
 - It system for private networking
-Last:
 - Private system for a large retailer
-Previous:
+### Previous:
 - Drone flight control system
 - A system for access control in large facilities
 - A system for renting resources in an international corporation
-While studying EE:
+### While studying EE:
 - CMS for a pizza place 
 - Websites for managing multiplayer games
 - 🕸️ games
