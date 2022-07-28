@@ -1,8 +1,6 @@
-import "p5.min.js";
-
-let s;
 const scl = 16;
 let food;
+let s;
 
 function setup() {
     frameRate(8);
