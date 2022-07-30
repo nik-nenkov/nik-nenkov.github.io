@@ -3,9 +3,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-const provincesJSONPath = './gis/provinces.geo.json';
-const districtsJSONPath = './gis/districts.geo.json';
-const townhallsJSONPath = './gis/townhalls.geo.json';
+const provincesJSONPath = '../gis/provinces.geo.json';
+const districtsJSONPath = '../gis/districts.geo.json';
+const townhallsJSONPath = '../gis/townhalls.geo.json';
 
 const myOtherStyle = {
     stroke: false,
