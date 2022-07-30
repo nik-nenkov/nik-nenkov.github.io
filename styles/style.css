@@ -6,7 +6,7 @@ body {
 #sketch-holder {
     display: flex;
     justify-content: center;
-    margin: 60px auto 0;
+    margin: 0 auto;
 }
 
 #arrows-controller{
