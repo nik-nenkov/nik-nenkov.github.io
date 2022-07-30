@@ -22,14 +22,23 @@ function draw() {
     }
 }
 
+const KC_LEFT = 37;
+const KC_UP = 38;
+const KC_RIGHT = 39;
+const KC_DOWN = 40;
+const KC_A = 65;
+const KC_W = 87;
+const KC_S = 83;
+const KC_D = 68;
+
 function keyPressed(e) {
-    if (e.keyCode === 38 || e.keyCode === 87) {
+    if (e.keyCode === KC_UP || e.keyCode === KC_W) {
         snake.dir(0, -1);
-    } else if (e.keyCode === 40 || e.keyCode === 83) {
+    } else if (e.keyCode === KC_DOWN || e.keyCode === KC_S) {
         snake.dir(0, 1);
-    } else if (e.keyCode === 39 || e.keyCode === 68) {
+    } else if (e.keyCode === KC_RIGHT || e.keyCode === KC_D) {
         snake.dir(1, 0);
-    } else if (e.keyCode === 37 || e.keyCode === 65) {
+    } else if (e.keyCode === KC_LEFT || e.keyCode === KC_A) {
         snake.dir(-1, 0);
     }
     if (p5.prototype.mouseIsPressed) {

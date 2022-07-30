@@ -3,9 +3,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-const provincesJSONPath = 'gis/provinces.geo.json';
-const districtsJSONPath = 'gis/districts.geo.json';
-const townhallsJSONPath = 'gis/townhalls.geo.json';
+const provincesJSONPath = './gis/provinces.geo.json';
+const districtsJSONPath = './gis/districts.geo.json';
+const townhallsJSONPath = './gis/townhalls.geo.json';
 
 const myOtherStyle = {
     stroke: false,
@@ -106,12 +106,9 @@ const redIcon = new L.Icon({
 function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
     if (feature.properties && feature.properties.display_name && feature.properties.n_properties) {
-        layer.bindPopup(feature.properties.display_name + "<br/>" + "Обяви: " + "<a href=http://localhost:8080/townhalls/" + feature.properties.uuid + "/properties>" + feature.properties.n_properties + "</a>");
+        layer.bindPopup(feature.properties.display_name + "<br/>" + "Обяви: " + "<a href=./townhalls/" + feature.properties.uuid + "/properties>" + feature.properties.n_properties + "</a>");
         layer.on('click', function (e) {
             this.openPopup(e.latlng);
-        });
-        layer.on('clickout', function (e) {
-            this.closePopup();
         });
         layer.setIcon(blueIcon);
         if (feature.properties.n_properties > 2) {
@@ -130,7 +127,7 @@ function onEachFeature(feature, layer) {
 }
 
 $.getJSON(townhallsJSONPath, function (data) {
-    const mark = L.geoJson(data, {
+    L.geoJson(data, {
         clickable: false, style: myTownStyle, onEachFeature: onEachFeature
     }).addTo(map);
 })
@@ -144,6 +141,7 @@ $('#provinces').on('change', function () {
         }
     }).addTo(map);
 });
+
 $('#districts').on('change', function () {
     const k = this.value;
     map.removeLayer(districtsMark);

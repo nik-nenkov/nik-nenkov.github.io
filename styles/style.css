@@ -8,6 +8,32 @@ body {
     display: inline-block;
 }
 
+#arrows-controller{
+    display: flex;
+    margin:90px;
+    width: 240px;
+    height: 240px;
+    flex-direction: row;
+}
+
+.arrows-column{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.key-button{
+    display: block;
+    border: 1px solid darkorange;
+    width: 69px;
+    height: 69px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.key-button:hover{
+    box-shadow: darkorange;
+}
+
 #map-holder{
     width: calc(100vw - 40px);
     height: calc(90vh - 40px);
