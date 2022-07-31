@@ -8,7 +8,7 @@ const halloweenTimeInSeconds = 1667167200;
 const christmasTimeInSeconds = 1671832800;
 const birthdayTimeInSeconds = 1689109200;
 
-function getCurrentTimeInSeconds(){
+function getCurrentTimeInSeconds() {
     return Math.floor(new Date().getTime() / 1000);
 }
 
@@ -29,45 +29,27 @@ function showTime() {
 }
 
 function showPassed() {
-
-    const secondsPassed = getCurrentTimeInSeconds() - checkedTimeInSeconds;
-
-    document.getElementById("display-last-check").textContent = "🚭 " +
-        Math.floor(secondsPassed / day) + "d " +
-        Math.floor(secondsPassed % day / hour) + "h " +
-        Math.floor(secondsPassed % hour / minute) + "m ";
-
-    setTimeout(showPassed, 20000);
+    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - checkedTimeInSeconds);
+    document.getElementById("display-last-check").innerText = "🚭 " + str.padStart(14, ' ');
 }
+
 function showHalloween() {
-
-    const secondsPassed = getCurrentTimeInSeconds() - halloweenTimeInSeconds;
-
-    document.getElementById("display-halloween").textContent = "🎃 " +
-        Math.floor(secondsPassed / day) + "d " +
-        Math.abs( Math.floor(secondsPassed % day / hour)) + "h " +
-        Math.abs(Math.floor(secondsPassed % hour / minute)) + "m ";
-
-    setTimeout(showPassed, 20000);
+    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - halloweenTimeInSeconds);
+    document.getElementById("display-halloween").innerText = "🎃 " + str.padStart(14, ' ');
 }
+
 function showChristmas() {
-
-    const secondsPassed = getCurrentTimeInSeconds() - christmasTimeInSeconds;
-
-    document.getElementById("display-christmas").textContent = "🎄 " +
-        Math.floor(secondsPassed / day) + "d " +
-        Math.abs(Math.floor(secondsPassed % day / hour)) + "h " +
-        Math.abs(Math.floor(secondsPassed % hour / minute)) + "m ";
-
-    setTimeout(showPassed, 20000);
+    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - christmasTimeInSeconds);
+    document.getElementById("display-christmas").innerText = "🎄 " + str.padStart(14, ' ');
 }
+
 function showBirthDay() {
-    const secondsPassed = getCurrentTimeInSeconds() - birthdayTimeInSeconds;
+    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - birthdayTimeInSeconds);
+    document.getElementById("display-birthday").innerText = "🎂 " + str.padStart(14, ' ');
+}
 
-    document.getElementById("display-birthday").textContent = "🎂 " +
-        Math.floor(secondsPassed / day) + "d " +
+function getStringBySecondsPassed(secondsPassed){
+    return Math.floor(secondsPassed / day) + "d " +
         Math.abs(Math.floor(secondsPassed % day / hour)) + "h " +
-        Math.abs(Math.floor(secondsPassed % hour / minute)) + "m ";
-
-    setTimeout(showPassed, 20000);
+        Math.abs(Math.floor(secondsPassed % hour / minute)) + "m";
 }

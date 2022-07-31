@@ -69,11 +69,13 @@ body {
 }
 
 #display-last-check, #display-birthday, #display-halloween, #display-christmas {
+    width: fit-content;
+    block-size: fit-content;
     text-align: center;
     user-select: none;
     margin: 20px auto;
     color: #640032;
     font-size: 30px;
     font-family: Orbitron, serif;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
 }
