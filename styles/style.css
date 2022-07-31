@@ -24,10 +24,8 @@ body {
 
 .key-button {
     display: block;
-    border: 1px solid darkorange;
-    width: 69px;
-    height: 69px;
-    margin: 5px;
+    width: 80px;
+    height: 80px;
     cursor: pointer;
 }
 
@@ -61,7 +59,7 @@ body {
 #display-time-now {
     text-align: center;
     user-select: none;
-    margin: 30px auto;
+    margin: 50px auto;
     color: #005555;
     font-size: 60px;
     font-family: Orbitron, serif;
@@ -73,9 +71,13 @@ body {
     block-size: fit-content;
     text-align: center;
     user-select: none;
-    margin: 20px auto;
+    margin: 25px auto;
     color: #640032;
     font-size: 30px;
-    font-family: Orbitron, serif;
+    font-family: Orbitron, monospace;
     letter-spacing: 4px;
+}
+
+.key-button > img{
+    max-height:100%; max-width:100%;
 }

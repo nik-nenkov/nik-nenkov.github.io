@@ -29,27 +29,28 @@ function showTime() {
 }
 
 function showPassed() {
-    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - checkedTimeInSeconds);
-    document.getElementById("display-last-check").innerText = "🚭 " + str.padStart(14, ' ');
+    document.getElementById("display-last-check").innerText = "🚭" +
+        getStringBySecondsPassed(getCurrentTimeInSeconds() - checkedTimeInSeconds);
 }
 
 function showHalloween() {
-    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - halloweenTimeInSeconds);
-    document.getElementById("display-halloween").innerText = "🎃 " + str.padStart(14, ' ');
+    document.getElementById("display-halloween").innerText = "🎃" +
+        getStringBySecondsPassed(getCurrentTimeInSeconds() - halloweenTimeInSeconds);
 }
 
 function showChristmas() {
-    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - christmasTimeInSeconds);
-    document.getElementById("display-christmas").innerText = "🎄 " + str.padStart(14, ' ');
+    document.getElementById("display-christmas").innerText = "🎄" +
+        getStringBySecondsPassed(getCurrentTimeInSeconds() - christmasTimeInSeconds);
 }
 
 function showBirthDay() {
-    const str = getStringBySecondsPassed(getCurrentTimeInSeconds() - birthdayTimeInSeconds);
-    document.getElementById("display-birthday").innerText = "🎂 " + str.padStart(14, ' ');
+    document.getElementById("display-birthday").innerText = "🎂" +
+        getStringBySecondsPassed(getCurrentTimeInSeconds() - birthdayTimeInSeconds);
 }
 
-function getStringBySecondsPassed(secondsPassed){
-    return Math.floor(secondsPassed / day) + "d " +
-        Math.abs(Math.floor(secondsPassed % day / hour)) + "h " +
-        Math.abs(Math.floor(secondsPassed % hour / minute)) + "m";
+function getStringBySecondsPassed(secondsPassed) {
+    const days = Math.floor(secondsPassed / day) + "d";
+    const hours = Math.abs(Math.floor(secondsPassed % day / hour)) + "h";
+    const minutes = Math.abs(Math.floor(secondsPassed % hour / minute)) + "m";
+    return days.padStart(6, ' ') + hours.padStart(4, ' ') + minutes.padStart(4, ' ')
 }
