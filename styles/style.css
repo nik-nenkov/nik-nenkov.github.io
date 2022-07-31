@@ -62,7 +62,7 @@ body {
     text-align: center;
     user-select: none;
     margin: 30px auto;
-    color: #004557;
+    color: #005555;
     font-size: 60px;
     font-family: Orbitron, serif;
     letter-spacing: 7px;
@@ -71,9 +71,9 @@ body {
 #display-last-check, #display-birthday, #display-halloween, #display-christmas {
     text-align: center;
     user-select: none;
-    margin: 30px auto;
-    color: #570031;
-    font-size: 60px;
+    margin: 20px auto;
+    color: #640032;
+    font-size: 30px;
     font-family: Orbitron, serif;
-    letter-spacing: 7px;
+    letter-spacing: 5px;
 }
