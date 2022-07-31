@@ -30,6 +30,7 @@ function showDate() {
         weekday: 'short', month: 'short', day: 'numeric', year: "numeric"
     }).toUpperCase();
 
+    setTimeout(showDate, 1000);
 }
 
 function showTime() {
