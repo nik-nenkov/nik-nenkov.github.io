@@ -9,20 +9,20 @@ body {
     margin: 0 auto;
 }
 
-#arrows-controller{
+#arrows-controller {
     display: flex;
-    margin:60px auto 0;
+    margin: 60px auto 0;
     width: 240px;
     height: 160px;
     flex-direction: row;
 }
 
-.arrows-column{
+.arrows-column {
     display: flex;
     flex-direction: column-reverse;
 }
 
-.key-button{
+.key-button {
     display: block;
     border: 1px solid darkorange;
     width: 69px;
@@ -31,24 +31,24 @@ body {
     cursor: pointer;
 }
 
-.key-button:hover{
+.key-button:hover {
     box-shadow: darkorange;
 }
 
-#map-holder{
+#map-holder {
     width: calc(100vw - 40px);
     height: calc(90vh - 40px);
     margin: 20px
 }
 
-#sport-content{
+#sport-content {
     display: block;
-    margin: 50px auto ;
+    margin: 50px auto;
     max-width: 60vw;
     min-width: 600px !important;
 }
 
-.navigation{
+.navigation {
     display: inline-block;
     width: calc(100% - 20px);
     padding: 10px;
@@ -56,4 +56,24 @@ body {
 
 .navigation > * {
     margin: 10px;
+}
+
+#display-time-now {
+    text-align: center;
+    user-select: none;
+    margin: 30px auto;
+    color: #004557;
+    font-size: 60px;
+    font-family: Orbitron, serif;
+    letter-spacing: 7px;
+}
+
+#display-last-check, #display-birthday, #display-halloween, #display-christmas {
+    text-align: center;
+    user-select: none;
+    margin: 30px auto;
+    color: #570031;
+    font-size: 60px;
+    font-family: Orbitron, serif;
+    letter-spacing: 7px;
 }
