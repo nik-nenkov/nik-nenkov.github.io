@@ -12,6 +12,13 @@ function getCurrentTimeInSeconds() {
     return Math.floor(new Date().getTime() / 1000);
 }
 
+function getStringBySecondsPassed(secondsPassed) {
+    const days = Math.floor(secondsPassed / day) + "d";
+    const hours = Math.abs(Math.floor(secondsPassed % day / hour)) + "h";
+    const minutes = Math.abs(Math.floor(secondsPassed % hour / minute)) + "m";
+    return days.padStart(6, ' ') + hours.padStart(4, ' ') + minutes.padStart(4, ' ')
+}
+
 function showTime() {
     const date = new Date();
 
@@ -28,29 +35,20 @@ function showTime() {
     setTimeout(showTime, 1000);
 }
 
-function showPassed() {
-    document.getElementById("display-last-check").innerText = "🚭" +
-        getStringBySecondsPassed(getCurrentTimeInSeconds() - checkedTimeInSeconds);
+function showTimers() {
+    timers.forEach(value => {
+        document.getElementById(value.elementId)
+            .innerText = value.elementIcon +
+            getStringBySecondsPassed(getCurrentTimeInSeconds() - value.elementTime);
+    });
 }
 
-function showHalloween() {
-    document.getElementById("display-halloween").innerText = "🎃" +
-        getStringBySecondsPassed(getCurrentTimeInSeconds() - halloweenTimeInSeconds);
-}
-
-function showChristmas() {
-    document.getElementById("display-christmas").innerText = "🎄" +
-        getStringBySecondsPassed(getCurrentTimeInSeconds() - christmasTimeInSeconds);
-}
-
-function showBirthDay() {
-    document.getElementById("display-birthday").innerText = "🎂" +
-        getStringBySecondsPassed(getCurrentTimeInSeconds() - birthdayTimeInSeconds);
-}
-
-function getStringBySecondsPassed(secondsPassed) {
-    const days = Math.floor(secondsPassed / day) + "d";
-    const hours = Math.abs(Math.floor(secondsPassed % day / hour)) + "h";
-    const minutes = Math.abs(Math.floor(secondsPassed % hour / minute)) + "m";
-    return days.padStart(6, ' ') + hours.padStart(4, ' ') + minutes.padStart(4, ' ')
-}
+const timers = [{
+    elementId: "display-last-check", elementIcon: "🚭", elementTime: checkedTimeInSeconds
+}, {
+    elementId: "display-halloween", elementIcon: "🎃", elementTime: halloweenTimeInSeconds
+}, {
+    elementId: "display-christmas", elementIcon: "🎄", elementTime: christmasTimeInSeconds
+}, {
+    elementId: "display-birthday", elementIcon: "🎂", elementTime: birthdayTimeInSeconds
+}]
