@@ -204,8 +204,7 @@
 }
 
 .leaflet-container {
-    cursor: -webkit-grab;
-    cursor: -moz-grab;
+    cursor: grab;
 }
 
 .leaflet-popup-pane,
@@ -216,8 +215,6 @@
 .leaflet-dragging .leaflet-container,
 .leaflet-dragging .leaflet-clickable {
     cursor: move;
-    cursor: -webkit-grabbing;
-    cursor: -moz-grabbing;
 }
 
 
@@ -333,13 +330,11 @@
 }
 
 .leaflet-control-layers-toggle {
-    background-image: url(images/layers.png);
     width: 36px;
     height: 36px;
 }
 
 .leaflet-retina .leaflet-control-layers-toggle {
-    background-image: url(images/layers-2x.png);
     background-size: 26px 26px;
 }
 
@@ -488,13 +483,8 @@
     width: 17px;
     height: 17px;
     padding: 1px;
-
     margin: -10px auto 0;
-
-    -webkit-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 
