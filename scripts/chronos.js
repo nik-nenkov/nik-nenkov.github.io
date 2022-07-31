@@ -4,7 +4,7 @@ const day = hour * 24;
 const space = ' ';
 
 const timers = [{
-    elementId: "display-last-check", elementIcon: "🚭", elementTime: 1659214800
+    elementId: "display-last-check", elementIcon: "🚭", elementTime: 1659214800 + (14*hour)
 }, {
     elementId: "display-halloween", elementIcon: "🎃", elementTime: 1667167200
 }, {
