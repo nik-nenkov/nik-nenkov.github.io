@@ -6,10 +6,10 @@ import {SnakeGameComponent} from "./snake-game/snake-game.component";
 import {SportsDataComponent} from "./sports-data/sports-data.component";
 
 const routes: Routes = [
-  { path: 'chronos-tab', component: ChronosComponent },
-  { path: 'sports-data', component: SportsDataComponent },
-  { path: 'game-corner', component: SnakeGameComponent },
-  { path: 'housing-map', component: HousingMapComponent },
+  { path: 'housing', component: HousingMapComponent },
+  { path: 'chronos', component: ChronosComponent },
+  { path: 'sports', component: SportsDataComponent },
+  { path: 'game', component: SnakeGameComponent },
 ];
 
 @NgModule({
