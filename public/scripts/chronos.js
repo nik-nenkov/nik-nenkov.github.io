@@ -4,7 +4,7 @@ const day = hour * 24;
 const space = ' ';
 
 const timers = [{
-    elementId: "display-last-check", elementIcon: "🚭", elementTime: 1659214800
+    elementId: "display-last-check", elementIcon: "🚭", elementTime: 1659348000
 }, {
     elementId: "display-halloween", elementIcon: "🎃", elementTime: 1667167200
 }, {
@@ -30,6 +30,7 @@ function showDate() {
         weekday: 'short', month: 'short', day: 'numeric', year: "numeric"
     }).toUpperCase();
 
+    setTimeout(showDate, 1000);
 }
 
 function showTime() {
