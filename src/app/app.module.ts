@@ -3,10 +3,20 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { NavBarComponent } from './nav-bar/nav-bar.component';
+import { ChronosComponent } from './chronos/chronos.component';
+import { SportsDataComponent } from './sports-data/sports-data.component';
+import { SnakeGameComponent } from './snake-game/snake-game.component';
+import { HousingMapComponent } from './housing-map/housing-map.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NavBarComponent,
+    ChronosComponent,
+    SportsDataComponent,
+    SnakeGameComponent,
+    HousingMapComponent
   ],
   imports: [
     BrowserModule,
