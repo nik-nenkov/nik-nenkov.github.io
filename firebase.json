@@ -13,7 +13,7 @@
     ]
   },
   "hosting": {
-    "public": "public",
+    "public": "dist/tsai-shen-yeh",
     "ignore": [
       "firebase.json",
       "**/.*",

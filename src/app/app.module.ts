@@ -8,6 +8,7 @@ import { ChronosComponent } from './chronos/chronos.component';
 import { SportsDataComponent } from './sports-data/sports-data.component';
 import { SnakeGameComponent } from './snake-game/snake-game.component';
 import { HousingMapComponent } from './housing-map/housing-map.component';
+import { HomePageComponent } from './home-page/home-page.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { HousingMapComponent } from './housing-map/housing-map.component';
     ChronosComponent,
     SportsDataComponent,
     SnakeGameComponent,
-    HousingMapComponent
+    HousingMapComponent,
+    HomePageComponent
   ],
   imports: [
     BrowserModule,
