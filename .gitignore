@@ -109,4 +109,9 @@ Temporary Items
 .apdisk
 
 /.idea/
+/dist/
 /node_modules/
+/.angular/
+/.firebase/
+/.github/
+/.vscode/
