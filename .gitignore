@@ -109,9 +109,9 @@ Temporary Items
 .apdisk
 
 /.idea/
+/.nx/
 /dist/
 /node_modules/
-/.angular/
 /.firebase/
-/.github/
 /.vscode/
+package-lock.json

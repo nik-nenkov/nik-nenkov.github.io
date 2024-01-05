@@ -6,8 +6,7 @@
     "start": "nx run tsai-shen-yeh:serve:development --port 80",
     "build": "nx run tsai-shen-yeh:build",
     "watch": "nx build --watch --configuration development",
-    "test": "nx run tsai-shen-yeh:test",
-    "postinstall": "node ./decorate-angular-cli.js"
+    "test": "nx run tsai-shen-yeh:test"
   },
   "private": true,
   "dependencies": {
